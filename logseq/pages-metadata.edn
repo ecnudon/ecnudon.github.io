@@ -1,12 +1,12 @@
-[{:block/name "@举一反三：示例增强的（example augmented）自然语言处理",
-  :block/created-at 1654068866299,
-  :block/updated-at 1654068866299}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
  {:block/name "abstract",
   :block/created-at 1654068866335,
   :block/updated-at 1654068866335}
+ {:block/name "acl",
+  :block/created-at 1654171886552,
+  :block/updated-at 1654171886552}
  {:block/name "attachments",
   :block/created-at 1654068866791,
   :block/updated-at 1654068866791}
@@ -22,6 +22,18 @@
  {:block/name "card",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
+ {:block/name "chenguang zhu",
+  :block/created-at 1654171732076,
+  :block/updated-at 1654171732076}
+ {:block/name "computer science - artificial intelligence",
+  :block/created-at 1654171732068,
+  :block/updated-at 1654171732068}
+ {:block/name "computer science - computation and language",
+  :block/created-at 1654171732069,
+  :block/updated-at 1654171732069}
+ {:block/name "computer science - information retrieval",
+  :block/created-at 1654171732070,
+  :block/updated-at 1654171732070}
  {:block/name "contents",
   :block/created-at 1653552702364,
   :block/updated-at 1654096703352}
@@ -40,6 +52,10 @@
  {:block/name "favorites",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
+ {:block/name
+  "hls__training data is more valuable than you think - a simple and effective method by_2022_wang_xu_fang_liu_sun_xu_zhu_zeng_",
+  :block/created-at 1654172037075,
+  :block/updated-at 1654175638150}
  {:block/name "idea",
   :block/created-at 1654096703352,
   :block/updated-at 1654096703352}
@@ -51,19 +67,28 @@
   :block/updated-at 1653552702364}
  {:block/name "jun 1st, 2022",
   :block/created-at 1654062025171,
-  :block/updated-at 1654098431203}
+  :block/updated-at 1654180635689}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654099201494,
-  :block/updated-at 1654099201494}
+  :block/updated-at 1654171841266}
  {:block/name "knowledge_dict",
   :block/created-at 1654068480026,
   :block/updated-at 1654068480026}
  {:block/name "later",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
+ {:block/name "logseq dev theme",
+  :block/created-at 1654105106547,
+  :block/updated-at 1654105106547}
+ {:block/name "mar 16th, 2022",
+  :block/created-at 1654171732071,
+  :block/updated-at 1654171732071}
  {:block/name "may 26th, 2022",
   :block/created-at 1653552693120,
-  :block/updated-at 1654069307474}
+  :block/updated-at 1654173291885}
+ {:block/name "michael zeng",
+  :block/created-at 1654171732077,
+  :block/updated-at 1654171732077}
  {:block/name "new page: _",
   :block/created-at 1654096515029,
   :block/updated-at 1654096515029}
@@ -76,12 +101,30 @@
  {:block/name "paper",
   :block/created-at 1654062623260,
   :block/updated-at 1654062623260}
- {:block/name "reading",
-  :block/created-at 1654068593404,
-  :block/updated-at 1654068593404}
+ {:block/name "paper_note",
+  :block/created-at 1654172004793,
+  :block/updated-at 1654172004793}
+ {:block/name "prompt",
+  :block/created-at 1654145572744,
+  :block/updated-at 1654145572744}
+ {:block/name "qa",
+  :block/created-at 1654143053822,
+  :block/updated-at 1654143053822}
+ {:block/name "report",
+  :block/created-at 1654171732071,
+  :block/updated-at 1654171732071}
  {:block/name "repository",
   :block/created-at 1654096698640,
   :block/updated-at 1654096698640}
+ {:block/name "ruochen xu",
+  :block/created-at 1654171732075,
+  :block/updated-at 1654171732075}
+ {:block/name "shuohang wang",
+  :block/created-at 1654171732072,
+  :block/updated-at 1654171732072}
+ {:block/name "siqi sun",
+  :block/created-at 1654171732075,
+  :block/updated-at 1654171732075}
  {:block/name "tag",
   :block/created-at 1654068698657,
   :block/updated-at 1654068698657}
@@ -91,6 +134,10 @@
  {:block/name "todo",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
+ {:block/name
+  "training data is more valuable than you think: a simple and effective method by retrieving from training data",
+  :block/created-at 1654171732064,
+  :block/updated-at 1654180688278}
  {:block/name "wait",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
@@ -98,5 +145,17 @@
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
  {:block/name "webpage",
-  :block/created-at 1654068866322, 
-  :block/updated-at 1654068866322}]
+  :block/created-at 1654068866322,
+  :block/updated-at 1654068866322}
+ {:block/name "yang liu",
+  :block/created-at 1654171732073,
+  :block/updated-at 1654171732073}
+ {:block/name "yichong xu",
+  :block/created-at 1654171732072,
+  :block/updated-at 1654171732072}
+ {:block/name "yuwei fang",
+  :block/created-at 1654171732073,
+  :block/updated-at 1654171732073}
+ {:block/name "举一反三：示例增强的（example augmented）自然语言处理",
+  :block/created-at 1654068866299, 
+  :block/updated-at 1654068866299}]

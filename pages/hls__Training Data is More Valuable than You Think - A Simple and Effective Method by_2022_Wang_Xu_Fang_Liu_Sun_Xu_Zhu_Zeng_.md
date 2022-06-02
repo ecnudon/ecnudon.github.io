@@ -1,0 +1,10 @@
+file-path:: file://D:\NutStore\PAPER_HOME/Augmentation/Training Data is More Valuable than You Think - A Simple and Effective Method by_2022_Wang_Xu_Fang_Liu_Sun_Xu_Zhu_Zeng_.pdf
+file:: [Training Data is More Valuable than You Think - A Simple and Effective Method by_2022_Wang_Xu_Fang_Liu_Sun_Xu_Zhu_Zeng_.pdf](file://D:\NutStore\PAPER_HOME/Augmentation/Training Data is More Valuable than You Think - A Simple and Effective Method by_2022_Wang_Xu_Fang_Liu_Sun_Xu_Zhu_Zeng_.pdf)
+title:: hls__Training Data is More Valuable than You Think - A Simple and Effective Method by_2022_Wang_Xu_Fang_Liu_Sun_Xu_Zhu_Zeng_
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6298cb4a-a679-479f-83c8-980223f368b8
+  hl-type:: area
+  hl-stamp:: 1654180769365

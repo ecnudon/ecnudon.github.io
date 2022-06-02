@@ -1,5 +1,5 @@
 tags:: [[example augmented]]
-title:: @举一反三：示例增强的（example augmented）自然语言处理
+title:: 举一反三：示例增强的（example augmented）自然语言处理
 website-title:: 知乎专栏
 item-type:: [[webpage]]
 access-date:: 2022-06-01T07:26:12Z
