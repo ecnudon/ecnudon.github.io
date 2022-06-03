@@ -54,8 +54,8 @@
   :block/updated-at 1653552702364}
  {:block/name
   "hls__training data is more valuable than you think - a simple and effective method by_2022_wang_xu_fang_liu_sun_xu_zhu_zeng_",
-  :block/created-at 1654172037075,
-  :block/updated-at 1654175638150}
+  :block/created-at 1654222752320,
+  :block/updated-at 1654222752320}
  {:block/name "idea",
   :block/created-at 1654096703352,
   :block/updated-at 1654096703352}
@@ -71,6 +71,9 @@
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654099201494,
   :block/updated-at 1654171841266}
+ {:block/name "jun 3rd, 2022",
+  :block/created-at 1654222628017,
+  :block/updated-at 1654222628017}
  {:block/name "knowledge_dict",
   :block/created-at 1654068480026,
   :block/updated-at 1654068480026}
@@ -110,6 +113,9 @@
  {:block/name "qa",
   :block/created-at 1654143053822,
   :block/updated-at 1654143053822}
+ {:block/name "readme",
+  :block/created-at 1654222628415,
+  :block/updated-at 1654222628415}
  {:block/name "report",
   :block/created-at 1654171732071,
   :block/updated-at 1654171732071}
@@ -137,7 +143,7 @@
  {:block/name
   "training data is more valuable than you think: a simple and effective method by retrieving from training data",
   :block/created-at 1654171732064,
-  :block/updated-at 1654180688278}
+  :block/updated-at 1654223271845}
  {:block/name "wait",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}

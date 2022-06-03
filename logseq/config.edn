@@ -176,7 +176,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :zotero/settings-v2 {"Don" {:type-id "9034808", :zotero-linked-attachment-base-directory "..\\PAPER_HOME", :zotero-data-directory "..\\PAPER_HOME", :page-insert-prefix "", :include-notes? false}}
+ :zotero/settings-v2 {"Don" {:type-id "9034808", :zotero-linked-attachment-base-directory "github.com/ecnudon/ecnudon.github.io/raw/main/PAPER_HOME", :zotero-data-directory "..\\PAPER_HOME", :page-insert-prefix "", :include-notes? false}}
  :publishing/all-pages-public? true
  :favorites []
 
