@@ -29,7 +29,7 @@ title:: Training Data is More Valuable than You Think: A Simple and Effective Me
 	- ![image.png](../assets/image_1654247304744_0.png)
 		- ((6299cf90-2937-4762-8641-ff1ecbc75941))
 		- 其实整个模型(Retrieval from Training Data)根据不同的任务, 规定了不同的$k-v$关系
-			- ((6299f28d-1572-468b-a16e-e5f698fb054e))摘要生成: k是文章,  v是生成的索引, 用k搜相似, 但因为文章太长了就不拼上去了, 只拼v
+			- ((6299f28d-1572-468b-a16e-e5f698fb054e))摘要生成: k是文章,  v是生成的索引, 用k搜相似, 但因为文章太长了就不拼上去了, 只拼v部分;
 			- ((6299f293-a4fc-41f3-b6e1-c5a2f8fbf5f0))语言模型: 完成的是段落的『下一段预测』任务, 前一段是后一段的key, 后一段是value
 			- ((6299f29e-abb6-4395-90ff-a1ef494a71b1))机器翻译: 原句是k, 翻译结果是v, 同样只把译文拼上去
 			- ((6299f2b7-8089-4be8-911c-430b42f8743d))问答: 首先明确任务, 任务是选择题类的
