@@ -1,0 +1,1 @@
+powershell -file auto_push.ps1
