@@ -33,7 +33,7 @@ title:: Training Data is More Valuable than You Think: A Simple and Effective Me
 			- ((6299f293-a4fc-41f3-b6e1-c5a2f8fbf5f0))语言模型: 完成的是段落的『下一段预测』任务, 前一段是后一段的key, 后一段是value
 			- ((6299f29e-abb6-4395-90ff-a1ef494a71b1))机器翻译: 原句是k, 翻译结果是v, 同样只把译文拼上去
 			- ((6299f2b7-8089-4be8-911c-430b42f8743d))问答: 首先明确任务, 任务是选择题类的
-				- 这类问题的$(k-v)$是"问句-正确回答",
-			-
-		-
--
+				- 这类问题的$(k-v)$是"问句-正确回答"
+	- 训练相关: 在训练的时候使用**BM25**可能会导致检测到原来输入, 所以要对这一条进行过滤!
+		- 类似于: 要让model自己学习例题, 就不要把答案给他, 例题当真题做
+	- test阶段(or预测阶段) 的时候就不用了(毕竟evaluation set里的东西也不会在training set里出现)
