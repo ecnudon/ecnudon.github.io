@@ -4,9 +4,9 @@
  {:block/name "abstract",
   :block/created-at 1654068866335,
   :block/updated-at 1654068866335}
- {:block/name "acl",
-  :block/created-at 1654171886552,
-  :block/updated-at 1654171886552}
+ {:block/name "apr 25th, 2022",
+  :block/created-at 1654255584118,
+  :block/updated-at 1654255584118}
  {:block/name "attachments",
   :block/created-at 1654068866791,
   :block/updated-at 1654068866791}
@@ -16,6 +16,9 @@
  {:block/name "brief_abstact",
   :block/created-at 1654069307473,
   :block/updated-at 1654069307473}
+ {:block/name "brief_abstract",
+  :block/created-at 1654365942779,
+  :block/updated-at 1654365942779}
  {:block/name "c",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
@@ -34,6 +37,9 @@
  {:block/name "computer science - information retrieval",
   :block/created-at 1654171732070,
   :block/updated-at 1654171732070}
+ {:block/name "computer science - machine learning",
+  :block/created-at 1654255584118,
+  :block/updated-at 1654255584118}
  {:block/name "contents",
   :block/created-at 1653552702364,
   :block/updated-at 1654096703352}
@@ -53,42 +59,56 @@
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
  {:block/name
+  "hls__learning to reason deductively - math word problem solving as complex relation_2022_jie_li_lu_",
+  :block/created-at 1654255648066,
+  :block/updated-at 1654340569220}
+ {:block/name
   "hls__training data is more valuable than you think - a simple and effective method by_2022_wang_xu_fang_liu_sun_xu_zhu_zeng_",
   :block/created-at 1654222752320,
   :block/updated-at 1654222752320}
  {:block/name "idea",
   :block/created-at 1654096703352,
   :block/updated-at 1654096703352}
- {:block/name "ideas",
-  :block/created-at 1654062694477,
-  :block/updated-at 1654062694477}
  {:block/name "in-progress",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
+ {:block/name "jierui li",
+  :block/created-at 1654255584120,
+  :block/updated-at 1654255584120}
  {:block/name "jun 1st, 2022",
   :block/created-at 1654062025171,
-  :block/updated-at 1654180635689}
+  :block/updated-at 1654268035463}
  {:block/name "jun 2nd, 2022",
-  :block/created-at 1654099201494,
-  :block/updated-at 1654171841266}
+  :block/created-at 1654365942853,
+  :block/updated-at 1654365942853}
  {:block/name "jun 3rd, 2022",
-  :block/created-at 1654222628017,
-  :block/updated-at 1654222628017}
+  :block/created-at 1654365943144,
+  :block/updated-at 1654365943144}
+ {:block/name "jun 4th, 2022",
+  :block/created-at 1654365943059,
+  :block/updated-at 1654365943059}
  {:block/name "knowledge_dict",
   :block/created-at 1654068480026,
   :block/updated-at 1654068480026}
  {:block/name "later",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
+ {:block/name
+  "learning to reason deductively: math word problem solving as complex relation extraction",
+  :block/created-at 1654255584114,
+  :block/updated-at 1654340564033}
  {:block/name "logseq dev theme",
   :block/created-at 1654105106547,
   :block/updated-at 1654105106547}
  {:block/name "mar 16th, 2022",
   :block/created-at 1654171732071,
   :block/updated-at 1654171732071}
+ {:block/name "math_word_problem",
+  :block/created-at 1654342528224,
+  :block/updated-at 1654342528224}
  {:block/name "may 26th, 2022",
   :block/created-at 1653552693120,
-  :block/updated-at 1654173291885}
+  :block/updated-at 1654268036980}
  {:block/name "michael zeng",
   :block/created-at 1654171732077,
   :block/updated-at 1654171732077}
@@ -102,8 +122,8 @@
   :block/created-at 1654068751748,
   :block/updated-at 1654068751748}
  {:block/name "paper",
-  :block/created-at 1654062623260,
-  :block/updated-at 1654062623260}
+  :block/created-at 1654365942775,
+  :block/updated-at 1654365942775}
  {:block/name "paper_note",
   :block/created-at 1654172004793,
   :block/updated-at 1654172004793}
@@ -113,6 +133,9 @@
  {:block/name "qa",
   :block/created-at 1654143053822,
   :block/updated-at 1654143053822}
+ {:block/name "re",
+  :block/created-at 1654255605597,
+  :block/updated-at 1654255605597}
  {:block/name "readme",
   :block/created-at 1654222628415,
   :block/updated-at 1654222628415}
@@ -122,6 +145,9 @@
  {:block/name "repository",
   :block/created-at 1654096698640,
   :block/updated-at 1654096698640}
+ {:block/name "retrieval_based",
+  :block/created-at 1654249543949,
+  :block/updated-at 1654249543949}
  {:block/name "ruochen xu",
   :block/created-at 1654171732075,
   :block/updated-at 1654171732075}
@@ -131,6 +157,15 @@
  {:block/name "siqi sun",
   :block/created-at 1654171732075,
   :block/updated-at 1654171732075}
+ {:block/name "sun, 06/05",
+  :block/created-at 1654393091274,
+  :block/updated-at 1654393091274}
+ {:block/name "sun, 2022/06",
+  :block/created-at 1654393124123,
+  :block/updated-at 1654393124123}
+ {:block/name "sun, 2022/06/05",
+  :block/created-at 1654394839163,
+  :block/updated-at 1654394839163}
  {:block/name "tag",
   :block/created-at 1654068698657,
   :block/updated-at 1654068698657}
@@ -143,7 +178,7 @@
  {:block/name
   "training data is more valuable than you think: a simple and effective method by retrieving from training data",
   :block/created-at 1654171732064,
-  :block/updated-at 1654223271845}
+  :block/updated-at 1654320232110}
  {:block/name "wait",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
@@ -153,6 +188,9 @@
  {:block/name "webpage",
   :block/created-at 1654068866322,
   :block/updated-at 1654068866322}
+ {:block/name "wei lu",
+  :block/created-at 1654255584121,
+  :block/updated-at 1654255584121}
  {:block/name "yang liu",
   :block/created-at 1654171732073,
   :block/updated-at 1654171732073}
@@ -162,6 +200,9 @@
  {:block/name "yuwei fang",
   :block/created-at 1654171732073,
   :block/updated-at 1654171732073}
+ {:block/name "zhanming jie",
+  :block/created-at 1654255584120,
+  :block/updated-at 1654255584120}
  {:block/name "举一反三：示例增强的（example augmented）自然语言处理",
   :block/created-at 1654068866299, 
-  :block/updated-at 1654068866299}]
+  :block/updated-at 1654255906327}]

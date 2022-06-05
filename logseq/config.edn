@@ -9,7 +9,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
@@ -179,6 +179,7 @@
  :zotero/settings-v2 {"Don" {:type-id "9034808", :zotero-linked-attachment-base-directory "D:\\NutStore\\PAPER_HOME", :zotero-data-directory "D:\\NutStore\\PAPER_HOME", :page-insert-prefix "", :include-notes? false}}
  :publishing/all-pages-public? true
  :favorites []
+ :journal/page-title-format "EEE, yyyy/MM/dd"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
