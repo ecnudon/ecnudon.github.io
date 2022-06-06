@@ -25,6 +25,6 @@ date:: 2022
 	  for name ,para in model.named parameters ():
 	    model.state dict()[name][:] +=(torch.rand(para.size())−0.5)*noise_lambda*torch.std(para)
 	  ```
-	- AINLP 的作者的实验认定`random_lambda`在
+	- AINLP 的作者的实验认定`random_lambda`在 0.2 的时候效果最好.
 	-
 -
