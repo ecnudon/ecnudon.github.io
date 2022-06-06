@@ -1,4 +1,4 @@
-git pull --rebase origin main
+git pull --rebase origin source
 git add . 
 git commit -m "daily auto push"
-git push origin main
+git push origin source
