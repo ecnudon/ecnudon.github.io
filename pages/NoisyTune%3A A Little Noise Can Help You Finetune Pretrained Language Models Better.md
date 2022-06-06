@@ -21,4 +21,8 @@ date:: 2022
 	- [NoisyTune - A Little Noise Can Help You Finetune Pretrained Language Models_2022_Wu_Wu_Qi_Huang_.pdf](zotero://select/library/items/VDFXKATG) {{zotero-linked-file "attachments:ACL/NoisyTune - A Little Noise Can Help You Finetune Pretrained Language Models_2022_Wu_Wu_Qi_Huang_.pdf"}}
 - [[paper_note]]
 	- 论文实际工作是加入了以下代码:
-	- ``` ```
+	- ```python
+	  for name ,para in model.named parameters ():
+	    model.state dict()[name][:] +=(torch.rand(para.size())−0.5)*noise_lambda*torch.std(para)
+	  ```
+-
