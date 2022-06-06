@@ -25,4 +25,5 @@ date:: 2022
 	  for name ,para in model.named parameters ():
 	    model.state dict()[name][:] +=(torch.rand(para.size())−0.5)*noise_lambda*torch.std(para)
 	  ```
+	- AINLP 的坐着
 -
