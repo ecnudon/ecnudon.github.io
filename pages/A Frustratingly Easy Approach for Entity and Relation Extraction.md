@@ -17,4 +17,6 @@ report-number:: arXiv:2010.12812
 	- [arXiv.org Snapshot](https://arxiv.org/abs/2010.12812) {{zotero-imported-file YNURNEJR, "2010.html"}}
 	- [A Frustratingly Easy Approach for Entity and Relation Extraction_2021_Zhong_Chen_.pdf](zotero://select/library/items/SNUNMMCD) {{zotero-linked-file "attachments:ACL/A Frustratingly Easy Approach for Entity and Relation Extraction_2021_Zhong_Chen_.pdf"}}
 - [[paper_note]]
+	- ![image.png](../assets/image_1654587156425_0.png)
+	- ((629eff27-11c2-476b-a421-9e568e105a05))
 	-
