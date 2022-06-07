@@ -25,6 +25,6 @@ report-number:: arXiv:2010.12812
 		- Solid marker
 			- 在句子中间插入固定位置的Marker, 用self-attention后的marker的向量表示
 		- Levitated Marker
-			- 在句子之后一大串marker, marker和原句的之间共享position embedding, 用这样隐式的一种方法进行token之间关系的连接(
+			- 在句子之后一大串marker, marker和原句的之间共享position embedding, 用这样隐式的一种方法进行token之间关系的连接(有效性有待商榷)
 			-
 -
