@@ -21,5 +21,7 @@ report-number:: arXiv:2010.12812
 	- ((629eff27-11c2-476b-a421-9e568e105a05))
 	- 在之后我组会分享的一个论文里, 文章把这三种方式分别定义为:
 		- Token-concat
+			- 直接使用Token的向量拼接进行表示
 		- Solid marker
+			- 在句子中间插入固定位置的Marker, 用attention后的marker
 		- Levitated Marker
