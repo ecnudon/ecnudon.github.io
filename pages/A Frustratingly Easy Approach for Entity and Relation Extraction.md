@@ -19,7 +19,7 @@ report-number:: arXiv:2010.12812
 - [[paper_note]]
 	- ![image.png](../assets/image_1654587156425_0.png)
 	- ((629eff27-11c2-476b-a421-9e568e105a05))
-	- 在之后的一个论文里, 文章把这三种方式分别定义为:
+	- 在之后我组会分享的一个论文里, 文章把这三种方式分别定义为:
 		- Token-concat
 		- Solid marker
 		- Levitated Marker
