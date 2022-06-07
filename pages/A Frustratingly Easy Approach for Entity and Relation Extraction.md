@@ -26,5 +26,5 @@ report-number:: arXiv:2010.12812
 			- 在句子中间插入固定位置的Marker, 用self-attention后的marker的向量表示
 		- Levitated Marker
 			- 在句子之后一大串marker, marker和原句的之间共享position embedding, 用这样隐式的一种方法进行token之间关系的连接(有效性有待商榷)
-	-
+	- NER模型: BERT后接一个span分类网络, 基于片段排列, 提取所有可能片段排列, 通过softmax
 -
