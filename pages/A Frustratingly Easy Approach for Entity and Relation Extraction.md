@@ -22,4 +22,4 @@ report-number:: arXiv:2010.12812
 	- 在之后的一个论文里, 文章把这三种方式分别定义为:
 		- Token-concat
 		- Solid marker
-		- Levi他特地
+		- Levitated Marker
