@@ -23,5 +23,6 @@ report-number:: arXiv:2010.12812
 		- Token-concat
 			- 直接使用Token的向量拼接进行表示
 		- Solid marker
-			- 在句子中间插入固定位置的Marker, 用attention后的marker
+			- 在句子中间插入固定位置的Marker, 用self-attention后的marker的向量表示
 		- Levitated Marker
+			- 在句子之后
