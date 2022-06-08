@@ -19,4 +19,5 @@ date:: [[Fri, 2021/06/18]]
 - [[paper_note]]
 	- 和casrel和tplinker进行对比:
 		- casrel是对每一个可能个关系都进行对比
-		- tplinker也是和每一个关系处理
+		- tplinker也是和每一个关系处理 泛化性较差
+		-
