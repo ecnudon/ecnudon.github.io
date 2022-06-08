@@ -22,4 +22,5 @@ date:: [[Fri, 2021/06/18]]
 		- tplinker也是和每一个关系处理 泛化性较差
 		- 他认为span-based不好
 	- 候选关系
-	- RE:
+	- RE:Subject和Object两个BIO序列标注(为了解决SOO重叠)
+		-
