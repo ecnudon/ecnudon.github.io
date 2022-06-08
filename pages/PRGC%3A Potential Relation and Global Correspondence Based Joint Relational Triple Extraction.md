@@ -1,0 +1,18 @@
+links:: [Local library](zotero://select/library/items/BPCGYB33), [Web library](https://www.zotero.org/users/9034808/items/BPCGYB33)
+library-catalog:: arxiv.org
+authors:: Hengyi Zheng, Rui Wen, Xi Chen, Yifan Yang, Yunyan Zhang, Ziheng Zhang, Ningyu Zhang, Bin Qin, Ming Xu, Yefeng Zheng
+short-title:: PRGC
+url:: https://arxiv.org/abs/2106.09895v1
+language:: en
+original-title:: PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction
+access-date:: 2022-06-08T00:59:37Z
+item-type:: [[journalArticle]]
+title:: PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction
+doi:: 10.48550/arXiv.2106.09895
+date:: [[Fri, 2021/06/18]]
+
+- [[Abstract]]
+	- Joint extraction of entities and relations from unstructured texts is a crucial task in information extraction. Recent methods achieve considerable performance but still suffer from some inherent limitations, such as redundancy of relation prediction, poor generalization of span-based extraction and inefficiency. In this paper, we decompose this task into three subtasks, Relation Judgement, Entity Extraction and Subject-object Alignment from a novel perspective and then propose a joint relational triple extraction framework based on Potential Relation and Global Correspondence (PRGC). Specifically, we design a component to predict potential relations, which constrains the following entity extraction to the predicted relation subset rather than all relations; then a relation-specific sequence tagging component is applied to handle the overlapping problem between subjects and objects; finally, a global correspondence component is designed to align the subject and object into a triple with low-complexity. Extensive experiments show that PRGC achieves state-of-the-art performance on public benchmarks with higher efficiency and delivers consistent performance gain on complex scenarios of overlapping triples.
+- [[Attachments]]
+	- [PRGC - Potential Relation and Global Correspondence Based Joint Relational_2021_Zheng_Wen_Chen_Yang_Zhang_Zhang_Zhang_Qin_Xu_Zheng_.pdf](zotero://select/library/items/UX4538YS) {{zotero-linked-file "attachments:ACL/PRGC - Potential Relation and Global Correspondence Based Joint Relational_2021_Zheng_Wen_Chen_Yang_Zhang_Zhang_Zhang_Qin_Xu_Zheng_.pdf"}}
+	- [Snapshot](https://arxiv.org/abs/2106.09895) {{zotero-imported-file 43KCG7IP, "2106.html"}}
