@@ -23,5 +23,6 @@ date:: [[Fri, 2021/06/18]]
 		- 他认为span-based不好
 	- 候选关系
 	- RE:Subject和Object两个BIO序列标注(为了解决SOO重叠)
-	- 用一个$n\corss n$的方形矩阵作为
+	- 用一个$n\cross n$的方形矩阵输入, 定一个阈值, 作为sub-rel-obj三元组关系的
 		-
+-
