@@ -28,5 +28,9 @@ date:: 2021
 		- 因此: Joint encoder deserve joint encoder
 		- 传统: NER ->  Relation Classification
 		- 本文: 把NER当做RC. , 使用table的方式
+		- 标注方式:
+			- 对token做一个n*n的表格
+			- 对角线标实体
+			- 对称性的关系,
 		-
 			-
