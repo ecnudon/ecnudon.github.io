@@ -36,6 +36,9 @@
  {:block/name "card",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
+ {:block/name "changzhi sun",
+  :block/created-at 1655254089783,
+  :block/updated-at 1655254089783}
  {:block/name "chenguang zhu",
   :block/created-at 1654171732076,
   :block/updated-at 1654171732076}
@@ -105,6 +108,9 @@
  {:block/name "hang yan",
   :block/created-at 1654918076767,
   :block/updated-at 1654918076767}
+ {:block/name "hao zhou",
+  :block/created-at 1655254089787,
+  :block/updated-at 1655254089787}
  {:block/name "hengyi zheng",
   :block/created-at 1654918077011,
   :block/updated-at 1654918077011}
@@ -120,6 +126,10 @@
   "hls__training data is more valuable than you think - a simple and effective method by_2022_wang_xu_fang_liu_sun_xu_zhu_zeng_",
   :block/created-at 1654222752320,
   :block/updated-at 1654222752320}
+ {:block/name
+  "hls__unire - a unified label space for entity relation extraction_2021_wang_sun_wu_zhou_li_yan_",
+  :block/created-at 1655255059455,
+  :block/updated-at 1655255059455}
  {:block/name "idea",
   :block/created-at 1654096703352,
   :block/updated-at 1654096703352}
@@ -144,6 +154,9 @@
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654365943144,
   :block/updated-at 1654365943144}
+ {:block/name "junchi yan",
+  :block/created-at 1655254089789,
+  :block/updated-at 1655254089789}
  {:block/name "junqi dai",
   :block/created-at 1654918076768,
   :block/updated-at 1654918076768}
@@ -157,6 +170,9 @@
   "learning to reason deductively: math word problem solving as complex relation extraction",
   :block/created-at 1654255584114,
   :block/updated-at 1654340564033}
+ {:block/name "lei li",
+  :block/created-at 1655254089788,
+  :block/updated-at 1655254089788}
  {:block/name "logseq dev theme",
   :block/created-at 1654105106547,
   :block/updated-at 1654105106547}
@@ -197,6 +213,9 @@
   "noisytune: a little noise can help you finetune pretrained language models better",
   :block/created-at 1654521869833,
   :block/updated-at 1654521869833}
+ {:block/name "note",
+  :block/created-at 1654172004793,
+  :block/updated-at 1654172004793}
  {:block/name "now",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
@@ -206,9 +225,6 @@
  {:block/name "paper",
   :block/created-at 1654365942775,
   :block/updated-at 1654365942775}
- {:block/name "paper_note",
-  :block/created-at 1654172004793,
-  :block/updated-at 1654172004793}
  {:block/name "pipeline",
   :block/created-at 1654918077650,
   :block/updated-at 1654918077650}
@@ -325,12 +341,13 @@
  {:block/name "tue, 2022/06/07",
   :block/created-at 1654532614770,
   :block/updated-at 1654535575910}
- {:block/name "tue, 2022/06/14",
-  :block/created-at 1655136001059,
-  :block/updated-at 1655136001059}
  {:block/name "tuo ji",
   :block/created-at 1654918076769,
   :block/updated-at 1654918076769}
+ {:block/name
+  "unire: a unified label space for entity relation extraction",
+  :block/created-at 1655254089776,
+  :block/updated-at 1655257196857}
  {:block/name "wait",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
@@ -354,7 +371,7 @@
   :block/updated-at 1654918076116}
  {:block/name "wed, 2022/06/15",
   :block/created-at 1655222403710,
-  :block/updated-at 1655222403710}
+  :block/updated-at 1655254098308}
  {:block/name "wei lu",
   :block/created-at 1654255584121,
   :block/updated-at 1654255584121}
@@ -376,9 +393,15 @@
  {:block/name "yifan yang",
   :block/created-at 1654918077009,
   :block/updated-at 1654918077009}
+ {:block/name "yijun wang",
+  :block/created-at 1655254089783,
+  :block/updated-at 1655254089783}
  {:block/name "yongfeng huang",
   :block/created-at 1654521870052,
   :block/updated-at 1654521870052}
+ {:block/name "yuanbin wu",
+  :block/created-at 1655254089784,
+  :block/updated-at 1655254089784}
  {:block/name "yunyan zhang",
   :block/created-at 1654918077003,
   :block/updated-at 1654918077003}
