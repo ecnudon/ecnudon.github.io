@@ -1,3 +1,0 @@
-title:: paper_note
-
--

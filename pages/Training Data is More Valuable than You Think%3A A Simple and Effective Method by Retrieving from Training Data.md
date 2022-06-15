@@ -17,7 +17,7 @@ title:: Training Data is More Valuable than You Think: A Simple and Effective Me
 	- Retrieval-based methods have been shown to be effective in NLP tasks via introducing external knowledge. However, the indexing and retrieving of large-scale corpora bring considerable computational cost. Surprisingly, we found that REtrieving from the traINing datA (REINA) only can lead to significant gains on multiple NLG and NLU tasks. We retrieve the labeled training instances most similar to the input text and then concatenate them with the input to feed into the model to generate the output. Experimental results show that this simple method can achieve significantly better performance on a variety of NLU and NLG tasks, including summarization, machine translation, language modeling, and question answering tasks. For instance, our proposed method achieved state-of-the-art results on XSum, BigPatent, and CommonsenseQA. Our code is released, https://github.com/microsoft/REINA .
 - [[Attachments]]
 	- [Training Data is More Valuable than You Think - A Simple and Effective Method by_2022_Wang_Xu_Fang_Liu_Sun_Xu_Zhu_Zeng_.pdf](zotero://select/library/items/37VYLPUF) {{zotero-linked-file "attachments:Augmentation/Training Data is More Valuable than You Think - A Simple and Effective Method by_2022_Wang_Xu_Fang_Liu_Sun_Xu_Zhu_Zeng_.pdf"}}
-- [[paper_note]]
+- [[note]]
 	- ![image.png](../assets/image_1654186744493_0.png)
 		- ((6298e309-6550-4ace-b50d-afeafe9bcd74))
 		- 之前的做法:类似于数据增强, 在大规模语料库中将输入信息『扩充』一下, 而不会把『训练数据』扯上

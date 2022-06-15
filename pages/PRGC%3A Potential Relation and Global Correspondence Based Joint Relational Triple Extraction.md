@@ -16,7 +16,7 @@ date:: [[Fri, 2021/06/18]]
 - [[Attachments]]
 	- [PRGC - Potential Relation and Global Correspondence Based Joint Relational_2021_Zheng_Wen_Chen_Yang_Zhang_Zhang_Zhang_Qin_Xu_Zheng_.pdf](zotero://select/library/items/UX4538YS) {{zotero-linked-file "attachments:ACL/PRGC - Potential Relation and Global Correspondence Based Joint Relational_2021_Zheng_Wen_Chen_Yang_Zhang_Zhang_Zhang_Qin_Xu_Zheng_.pdf"}}
 	- [Snapshot](https://arxiv.org/abs/2106.09895) {{zotero-imported-file 43KCG7IP, "2106.html"}}
-- [[paper_note]]
+- [[note]]
 	- 和casrel和tplinker进行对比:
 		- casrel是对每一个可能个关系都进行对比
 		- tplinker也是和每一个关系处理 泛化性较差

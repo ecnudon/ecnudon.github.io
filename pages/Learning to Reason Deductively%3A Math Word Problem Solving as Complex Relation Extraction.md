@@ -17,7 +17,4 @@ institution:: arXiv
 - [[Attachments]]
 	- [arXiv.org Snapshot](https://arxiv.org/abs/2203.10316) {{zotero-imported-file H4KB6X55, "2203.html"}}
 	- [Learning to Reason Deductively - Math Word Problem Solving as Complex Relation_2022_Jie_Li_Lu_.pdf](zotero://select/library/items/7NYANNPD) {{zotero-linked-file "attachments:ACL/Learning to Reason Deductively - Math Word Problem Solving as Complex Relation_2022_Jie_Li_Lu_.pdf"}}
-- [[paper_note]]
-	-
-	-
-	-
+- [[note]]
