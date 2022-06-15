@@ -37,6 +37,7 @@ date:: 2021
 		- 论文的三个loss
 			- 实体loss
 			- 对称关系loss: 对称的位置应该差距尽可能小
-			-
+			- implication loss: 如果有relation, 那么应该有实体存在
+				-
 		-
 			-
