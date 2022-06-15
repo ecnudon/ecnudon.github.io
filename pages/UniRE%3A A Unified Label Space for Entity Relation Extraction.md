@@ -24,6 +24,6 @@ date:: 2021
 		- 和陈丹琦的那个pipeline的模型相比:
 			- pipeline一定是两个模型 , 陈丹琦用的是枚举实体对的方式
 			- relation的话是两两实体做一个, 进行判断
-			- 总结: NER和惹
+			- 总结: NER和RE是完全分立的, separate label space deserve separate encoders
 		-
 			-
