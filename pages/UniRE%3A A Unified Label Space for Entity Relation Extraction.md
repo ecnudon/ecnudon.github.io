@@ -27,5 +27,6 @@ date:: 2021
 			- 总结: NER和RE是完全分立的, separate label space deserve separate encoders
 		- 因此: Joint encoder deserve joint encoder
 		- 传统: NER ->  Relation Classification
-		- 本文: 把NER当做RC
+		- 本文: 把NER当做RC.
+		-
 			-
