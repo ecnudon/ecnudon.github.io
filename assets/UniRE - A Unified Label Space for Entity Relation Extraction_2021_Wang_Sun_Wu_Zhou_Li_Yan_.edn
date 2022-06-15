@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "62a93013-7fc6-4350-9a08-0a10e8ec2dd6", :page 1, :position {:bounding {:x1 218.4183006286621, :y1 77.5868911743164, :x2 359.5008964538574, :y2 100.4086685180664, :width 714.3312, :height 1010.2679999999999}, :rects ({:x1 218.4183006286621, :y1 77.5868911743164, :x2 359.5008964538574, :y2 100.4086685180664, :width 714.3312, :height 1010.2679999999999}), :page 1}, :content {:text "nified Label Space"}, :properties {:color "yellow"}}]}
