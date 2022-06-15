@@ -20,5 +20,7 @@ date:: 2021
 - [[Attachments]]
 	- [UniRE - A Unified Label Space for Entity Relation Extraction_2021_Wang_Sun_Wu_Zhou_Li_Yan_.pdf](zotero://select/library/items/GA79YW48) {{zotero-linked-file "attachments:ACL/UniRE - A Unified Label Space for Entity Relation Extraction_2021_Wang_Sun_Wu_Zhou_Li_Yan_.pdf"}}
 - [[note]]
-	- ((62a93013-7fc6-4350-9a08-0a10e8ec2dd6))
-		- 统一的那个
+	- ((62a93013-7fc6-4350-9a08-0a10e8ec2dd6))统一是什么意思?
+		- 和陈丹琦的那个pipeline的模型相比:
+		-
+		-
