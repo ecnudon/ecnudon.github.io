@@ -46,6 +46,7 @@ date:: [[Fri, 2021/06/18]]
 				- token的隐藏向量$h_i$和表示关系的向量$u_j$相加, 分别送进两个全连接层之后softmax
 				- 得到的结果就是BIO三分类
 				- 损失函数:
+					- ![image.png](../assets/image_1656424943871_0.png)
 					-
 		- ((62bafcb1-c4e3-432a-853e-7c12ca4cc4b6))
 			- 有个疑问 : ((62bafe12-9b27-4bc4-ad68-d5cd86524bb8))
