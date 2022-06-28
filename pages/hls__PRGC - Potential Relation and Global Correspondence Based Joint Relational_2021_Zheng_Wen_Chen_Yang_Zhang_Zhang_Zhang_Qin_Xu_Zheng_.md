@@ -6,3 +6,7 @@ title:: hls__PRGC - Potential Relation and Global Correspondence Based Joint Rel
   ls-type:: annotation
   hl-page:: 3
   id:: 62baa5c3-06f8-4e0d-be4e-0af05eb73e8d
+- Entity Extraction
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 62baa60a-249f-4ebc-88ec-cb3903a8dc47

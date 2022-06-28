@@ -25,6 +25,8 @@ date:: [[Fri, 2021/06/18]]
 	- RE:Subject和Object两个BIO序列标注(为了解决SOO重叠)
 	- 用一个$n\times n$的方形矩阵输入, 定一个阈值, 作为sub-rel-obj三元组关系的
 	- ((62baa5c3-06f8-4e0d-be4e-0af05eb73e8d))
-		- 先对
+		- 给定一个句子输出, 对这个句子可能拥有的关系种类进行判断
+	- ((62baa60a-249f-4ebc-88ec-cb3903a8dc47))
+		- 每一个
 		-
 -
