@@ -38,6 +38,6 @@ date:: [[Fri, 2021/06/18]]
 			- 把拥有$n$个token长的句子的所有向量$h_i$进行平均, 变成一个向量 $h^{avg}$
 			- 再把 $h_{avg}$ 接一个全连接层, 后接sigmoid分类器, 用阈值$\lambda _1$ 进行判定.
 		- ((62baf6dd-c95b-4cfa-9e06-f4f6328a7099))
-			- 一个句子里可能会存在
+			- 对已经确定的关系(relation-specific), 用两遍分别标注subject和object (为了防止
 			-
 	-
