@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "62baa5c3-06f8-4e0d-be4e-0af05eb73e8d", :page 3, :position {:bounding {:x1 614.5416870117188, :y1 1396.0833740234375, :x2 802.6002807617188, :y2 1425.4166870117188, :width 1190.552, :height 1683.78}, :rects ({:x1 614.5416870117188, :y1 1396.0833740234375, :x2 802.6002807617188, :y2 1425.4166870117188, :width 1190.552, :height 1683.78}), :page 3}, :content {:text "Relation Judgement"}, :properties {:color "yellow"}}]}
