@@ -18,3 +18,7 @@ title:: hls__PRGC - Potential Relation and Global Correspondence Based Joint Rel
   ls-type:: annotation
   hl-page:: 4
   id:: 62bab893-4c2a-4ee4-b0bc-150906fa6e1f
+- Relation-Specific Sequence Tagging
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 62baf6dd-c95b-4cfa-9e06-f4f6328a7099
