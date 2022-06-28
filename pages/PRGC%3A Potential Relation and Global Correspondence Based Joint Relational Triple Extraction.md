@@ -35,5 +35,5 @@ date:: [[Fri, 2021/06/18]]
 	- 编码器使用的是BERT, 经过Encoder之后变成token长度的隐藏的特征向量$h$
 	- Decoder比较有意思:
 		- ((62bab893-4c2a-4ee4-b0bc-150906fa6e1f))
-		-
+			- 把拥有$n$个token长的句子的所有向量$h_i$进行平均
 	-
