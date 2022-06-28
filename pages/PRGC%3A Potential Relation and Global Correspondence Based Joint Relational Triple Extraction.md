@@ -40,7 +40,7 @@ date:: [[Fri, 2021/06/18]]
 		- ((62baf6dd-c95b-4cfa-9e06-f4f6328a7099))
 			- 对已经确定的关系(relation-specific), 用两遍分别标注subject和object (为了防止主客重叠)
 			- 没有使用LSTM-CRF, 而是只用了全连接层
-				-
+				- 特定领域的
 			-
 			-
 	-
