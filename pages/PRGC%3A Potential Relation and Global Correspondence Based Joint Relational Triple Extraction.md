@@ -38,13 +38,15 @@ date:: [[Fri, 2021/06/18]]
 			- 再把 $h_{avg}$ 接一个全连接层, 后接sigmoid分类器, 用阈值$\lambda _1$ 进行判定.
 			- 损失函数:
 				- ![image.png](../assets/image_1656423644420_0.png)
-				- $y_i$ 是tag, 当$y_i=1$时, 优化后应有$P_{rel} rightarrow 1$, $y_i=0$时, 优化后应有$P_{rel} rightarrow 1$,
+				- $y_i$ 是tag, 当$y_i=1$时, 优化后应有$P_{rel} \rightarrow 1$, $y_i=0$时, 优化后应有$P_{rel} \rightarrow 0$.
 		- ((62baf6dd-c95b-4cfa-9e06-f4f6328a7099))
 			- 对已经确定的关系(relation-specific), 用两遍分别标注subject和object (为了防止主客重叠)
 			- 没有使用LSTM-CRF, 而是只用了全连接层
 				- 特定关系的向量表示是$u_j$ 所有的$u_j$拼成的矩阵$U$可以看作是用d维表示的向量表示
 				- token的隐藏向量$h_i$和表示关系的向量$u_j$相加, 分别送进两个全连接层之后softmax
 				- 得到的结果就是BIO三分类
+				- 损失函数:
+					-
 		- ((62bafcb1-c4e3-432a-853e-7c12ca4cc4b6))
 			- 有个疑问 : ((62bafe12-9b27-4bc4-ad68-d5cd86524bb8))
 			- 也就是说他只是认为 我这一步只需要判断S和O之间是不是有关系的可能? 不需要关心到底是什么关系是嘛?
