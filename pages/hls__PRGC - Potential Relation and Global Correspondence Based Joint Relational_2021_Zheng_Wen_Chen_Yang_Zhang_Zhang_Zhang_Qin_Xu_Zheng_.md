@@ -26,3 +26,7 @@ title:: hls__PRGC - Potential Relation and Global Correspondence Based Joint Rel
   ls-type:: annotation
   hl-page:: 4
   id:: 62bafcb1-c4e3-432a-853e-7c12ca4cc4b6
+- It should be noted that the globalcorrespondence matrix can be learned simultane-ously with potential relation prediction since it isindependent of relations.
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 62bafe12-9b27-4bc4-ad68-d5cd86524bb8
