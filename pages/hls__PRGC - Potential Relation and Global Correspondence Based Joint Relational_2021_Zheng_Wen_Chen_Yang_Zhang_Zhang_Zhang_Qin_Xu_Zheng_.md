@@ -10,3 +10,7 @@ title:: hls__PRGC - Potential Relation and Global Correspondence Based Joint Rel
   ls-type:: annotation
   hl-page:: 4
   id:: 62baa60a-249f-4ebc-88ec-cb3903a8dc47
+- Subject-object  Alignment
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 62baa6a2-9341-4a54-8c34-3fce20387bc3
