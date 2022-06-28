@@ -34,5 +34,6 @@ date:: [[Fri, 2021/06/18]]
 			- 设句子长度为$n$, 这里用一个$n\times n$的表格来评定主实体-客实体的mark
 	- 编码器使用的是BERT, 经过Encoder之后变成token长度的隐藏的特征向量$h$
 	- Decoder比较有意思:
+		- ((62bab893-4c2a-4ee4-b0bc-150906fa6e1f))
 		-
 	-
