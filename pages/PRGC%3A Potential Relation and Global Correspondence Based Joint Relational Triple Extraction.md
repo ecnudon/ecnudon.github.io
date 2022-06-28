@@ -38,7 +38,7 @@ date:: [[Fri, 2021/06/18]]
 			- 再把 $h_{avg}$ 接一个全连接层, 后接sigmoid分类器, 用阈值$\lambda _1$ 进行判定.
 			- 损失函数:
 				- ![image.png](../assets/image_1656423644420_0.png)
-				- $y_i$ 是tag, 当$y_i=1$时, $P_{rel}$
+				- $y_i$ 是tag, 当$y_i=1$时, 优化后应有$P_{rel} rightarrow 1$, $y_i=0$时, 优化后应有$P_{rel} rightarrow 1$,
 		- ((62baf6dd-c95b-4cfa-9e06-f4f6328a7099))
 			- 对已经确定的关系(relation-specific), 用两遍分别标注subject和object (为了防止主客重叠)
 			- 没有使用LSTM-CRF, 而是只用了全连接层
