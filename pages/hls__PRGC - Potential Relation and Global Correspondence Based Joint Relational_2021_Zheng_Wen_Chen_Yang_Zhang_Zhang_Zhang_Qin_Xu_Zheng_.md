@@ -30,3 +30,7 @@ title:: hls__PRGC - Potential Relation and Global Correspondence Based Joint Rel
   ls-type:: annotation
   hl-page:: 4
   id:: 62bafe12-9b27-4bc4-ad68-d5cd86524bb8
+- total loss
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 62bb0441-75eb-4b07-88dd-1bd7921b2961
