@@ -62,7 +62,7 @@
   :block/updated-at 1654521870018}
  {:block/name "contents",
   :block/created-at 1653552702364,
-  :block/updated-at 1656163705649}
+  :block/updated-at 1656496996554}
  {:block/name "danqi chen",
   :block/created-at 1654918076460,
   :block/updated-at 1654918076460}
@@ -107,7 +107,7 @@
   :block/updated-at 1654918077490}
  {:block/name "fri, 2022/06/24",
   :block/created-at 1656000042389,
-  :block/updated-at 1656086372021}
+  :block/updated-at 1656422440736}
  {:block/name "hang yan",
   :block/created-at 1654918076767,
   :block/updated-at 1654918076767}
@@ -125,6 +125,10 @@
   "hls__learning to reason deductively - math word problem solving as complex relation_2022_jie_li_lu_",
   :block/created-at 1654255648066,
   :block/updated-at 1654340569220}
+ {:block/name
+  "hls__prgc - potential relation and global correspondence based joint relational_2021_zheng_wen_chen_yang_zhang_zhang_zhang_qin_xu_zheng_",
+  :block/created-at 1656399299851,
+  :block/updated-at 1656399299851}
  {:block/name
   "hls__training data is more valuable than you think - a simple and effective method by_2022_wang_xu_fang_liu_sun_xu_zhu_zeng_",
   :block/created-at 1654222752320,
@@ -209,6 +213,9 @@
  {:block/name "mon, 2022/06/20",
   :block/created-at 1655714962418,
   :block/updated-at 1655736662578}
+ {:block/name "mon, 2022/06/27",
+  :block/created-at 1656261148177,
+  :block/updated-at 1656422769139}
  {:block/name "new page: _",
   :block/created-at 1654096515029,
   :block/updated-at 1654096515029}
@@ -240,7 +247,7 @@
  {:block/name
   "prgc: potential relation and global correspondence based joint relational triple extraction",
   :block/created-at 1654918076108,
-  :block/updated-at 1654918076108}
+  :block/updated-at 1656426018714}
  {:block/name "prompt",
   :block/created-at 1654145572744,
   :block/updated-at 1654145572744}
@@ -282,7 +289,7 @@
   :block/updated-at 1654918077535}
  {:block/name "sat, 2022/06/25",
   :block/created-at 1656086404409,
-  :block/updated-at 1656163149918}
+  :block/updated-at 1656422451534}
  {:block/name "shuohang wang",
   :block/created-at 1654171732072,
   :block/updated-at 1654171732072}
@@ -309,7 +316,7 @@
   :block/updated-at 1655720446021}
  {:block/name "sun, 2022/06/26",
   :block/created-at 1656256724099,
-  :block/updated-at 1656257292713}
+  :block/updated-at 1656422460008}
  {:block/name "tag",
   :block/created-at 1654068698657,
   :block/updated-at 1654068698657}
@@ -340,6 +347,9 @@
  {:block/name "thu, 2022/06/23",
   :block/created-at 1655950943915,
   :block/updated-at 1656035038418}
+ {:block/name "thu, 2022/06/30",
+  :block/created-at 1656518422283,
+  :block/updated-at 1656518422283}
  {:block/name "todo",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
@@ -371,6 +381,9 @@
  {:block/name "tue, 2022/06/21",
   :block/created-at 1655740803275,
   :block/updated-at 1655951958367}
+ {:block/name "tue, 2022/06/28",
+  :block/created-at 1656345634657,
+  :block/updated-at 1656422950031}
  {:block/name "tuo ji",
   :block/created-at 1654918076769,
   :block/updated-at 1654918076769}
@@ -398,10 +411,13 @@
   :block/updated-at 1654521870601}
  {:block/name "wed, 2022/06/08",
   :block/created-at 1654918076116,
-  :block/updated-at 1654918076116}
+  :block/updated-at 1656422537085}
  {:block/name "wed, 2022/06/15",
   :block/created-at 1655222403710,
   :block/updated-at 1655299148499}
+ {:block/name "wed, 2022/06/29",
+  :block/created-at 1656432025495,
+  :block/updated-at 1656497019722}
  {:block/name "wei lu",
   :block/created-at 1654255584121,
   :block/updated-at 1654255584121}
@@ -453,9 +469,9 @@
  {:block/name "举一反三：示例增强的（example augmented）自然语言处理",
   :block/created-at 1654068866299,
   :block/updated-at 1654255906327}
- {:block/name "思考",
-  :block/created-at 1654918076112,
-  :block/updated-at 1654918076112}
+ {:block/name "句子",
+  :block/created-at 1656496996552,
+  :block/updated-at 1656496996552}
  {:block/name "想法",
   :block/created-at 1654918076110,
   :block/updated-at 1654918076110}
@@ -477,9 +493,12 @@
  {:block/name "论文写作",
   :block/created-at 1656256724094,
   :block/updated-at 1656256724094}
+ {:block/name "读书",
+  :block/created-at 1656163705648,
+  :block/updated-at 1656164240890}
  {:block/name "跟读者建立联系【研究的艺术·一】_哔哩哔哩_bilibili",
   :block/created-at 1656256723863,
   :block/updated-at 1656256723863}
- {:block/name "阅读",
-  :block/created-at 1656163705648, 
-  :block/updated-at 1656164240890}]
+ {:block/name "随笔",
+  :block/created-at 1654918076112, 
+  :block/updated-at 1654918076112}]
