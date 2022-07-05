@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "62c3a63d-c8b1-48f6-83e4-55c35a2860f6", :page 2, :position {:bounding {:x1 184.9040493518114, :y1 226.74476623535156, :x2 558.3237576037645, :y2 249.52256774902344, :width 890.9999999999998, :height 1153.0588235294115}, :rects ({:x1 184.9040493518114, :y1 226.74476623535156, :x2 558.3237576037645, :y2 249.52256774902344, :width 890.9999999999998, :height 1153.0588235294115}), :page 2}, :content {:text "Can We Do Model Selection in Few-Shot Learning"}, :properties {:color "yellow"}}]}
