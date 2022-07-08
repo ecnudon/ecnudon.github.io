@@ -12,4 +12,5 @@ title:: FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Langu
 	- [FewNLU - Benchmarking State-of-the-Art Methods for Few-Shot Natural Language_2022_Zheng_Zhou_Qian_Ding_Liao_Li_Salakhutdinov_Tang_Ruder_Yang_.pdf](zotero://select/library/items/XNCLNR9E) {{zotero-linked-file "attachments:Few-shot/FewNLU - Benchmarking State-of-the-Art Methods for Few-Shot Natural Language_2022_Zheng_Zhou_Qian_Ding_Liao_Li_Salakhutdinov_Tang_Ruder_Yang_.pdf"}}
 - [[note]]
 	- 同样的超参数, 算出来的结果也不太一样; 所以评价Few-shot learning应该有更新的评判标准
-	-
+	- ((62c7dba8-8ff8-4dd0-a672-9f860a818123))
+		-

@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "62c7dba8-8ff8-4dd0-a672-9f860a818123", :page 3, :position {:bounding {:x1 465.798583984375, :y1 110.13018798828125, :x2 744.384765625, :y2 131.79684448242188, :width 891, :height 1260.128058245251}, :rects ({:x1 465.798583984375, :y1 110.13018798828125, :x2 744.384765625, :y2 131.79684448242188, :width 891, :height 1260.128058245251}), :page 3}, :content {:text "Algorithm 1:A Few-Shot Evaluation Framework"}, :properties {:color "yellow"}}]}
