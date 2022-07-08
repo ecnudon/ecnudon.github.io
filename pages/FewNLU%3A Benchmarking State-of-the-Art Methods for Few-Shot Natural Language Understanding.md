@@ -13,5 +13,7 @@ title:: FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Langu
 - [[note]]
 	- 同样的超参数, 算出来的结果也不太一样; 所以评价Few-shot learning应该有更新的评判标准
 	- ((62c7dba8-8ff8-4dd0-a672-9f860a818123))
-		-
+		- 本质做法比较简单:
+			- 所有有标记数据分类为label和test;
+				- label有K种
 		-
