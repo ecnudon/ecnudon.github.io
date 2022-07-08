@@ -15,5 +15,6 @@ title:: FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Langu
 	- ((62c7dba8-8ff8-4dd0-a672-9f860a818123))
 		- 本质做法比较简单:
 			- 所有有标记数据分类为label和test;
-				- label有K种
+				- label有K种随机分的方式, 每一种的方式我在support上训练, 在query上评估;
+				- K种方式的取平均 + 标准差 来衡量这一套超参数下的
 		-
