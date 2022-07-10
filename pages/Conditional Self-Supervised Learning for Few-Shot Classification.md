@@ -26,5 +26,7 @@ links:: [Local library](zotero://select/library/items/3KZTA393), [Web library](h
 	- 第一部分: 正常训练Few-shot的特征提取器
 		- 训练$f_\theta(\cdot)$作为特征提取器
 		- 对每一个support set中的同类元素的特征平均作为prototype
+		- similarity的衡量是两个向量经过一个线性层$F_omega
+	-
 		-
 		-
