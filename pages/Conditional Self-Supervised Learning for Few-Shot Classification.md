@@ -23,4 +23,5 @@ links:: [Local library](zotero://select/library/items/3KZTA393), [Web library](h
 -
 - [[note]]
 	- 论文将Few-shot learning和对比学习相结合, 整个模型用三部分完成了这个设计
-	- 第一部分: 正常训练Few-shot的
+	- 第一部分: 正常训练Few-shot的特征提取器
+		- 训练$f_\theta(\cdot)$作为特征提取器, 对每一个support set中的同类元素
