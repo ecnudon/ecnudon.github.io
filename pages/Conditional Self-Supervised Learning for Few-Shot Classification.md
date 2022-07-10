@@ -22,4 +22,4 @@ links:: [Local library](zotero://select/library/items/3KZTA393), [Web library](h
 	- [An 等。 - 2021 - Conditional Self-Supervised Learning for Few-Shot .pdf](https://www.ijcai.org/proceedings/2021/0295.pdf) {{zotero-imported-file 8XH23AJ7, "An 等。 - 2021 - Conditional Self-Supervised Learning for Few-Shot .pdf"}}
 -
 - [[note]]
-	-
+	- 论文将Few-shot learning和对比学习相结合,
