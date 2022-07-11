@@ -38,4 +38,5 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		  3. 可以另一个『相似度矩阵』, $S_{i,j}$是i元素和j元素的相似度
 		  4. 然后就看不懂了........
 		  5. 用融合蒸馏方法得到xi的embedding
-		  6. 之后的分类方式还是利用这个embedding和该类别的prototype去看
+		  6. 之后的分类方式还是利用这个embedding和该类别的prototype去看贴合程度
+	- 感觉emmm 对比学习也只是在feature
