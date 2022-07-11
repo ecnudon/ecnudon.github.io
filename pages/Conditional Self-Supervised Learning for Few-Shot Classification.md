@@ -27,5 +27,6 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		- similarity的衡量是两个向量经过一个线性层 $F_\omega()$ , 再进行cos相似
 		- 分类概率: 数据抽出来feature, 分母是和每一类的prototype进行比较, 分子是该类的相似度
 		- 优化参数是$\theta$ 和 $\omega$, 也就是分类器 和 相似度计算前的那个线性层
-	- 第二部分:
+	- 第二部分: ((62cb9f12-07b7-46f3-b45c-ee741aaecb83)) 自训练部分
+		-
 		-
