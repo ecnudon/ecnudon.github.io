@@ -36,4 +36,5 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		  1. 用$f_\theta(\cdot)$ 和 $g_xi(\cdot)$去得到两个feature, 将其结合 (例如concat)
 		  2. 这样拼出来一个矩阵, 矩阵每一列都是一个拼好的feature
 		  3. 可以另一个『相似度矩阵』, $S_{i,j}$是i元素和j元素的相似度
-		  4.
+		  4. 然后就看不懂了........
+		  5. 用融合蒸馏方法得到
