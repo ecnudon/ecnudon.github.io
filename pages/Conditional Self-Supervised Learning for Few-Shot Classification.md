@@ -29,6 +29,4 @@ links:: [Local library](zotero://select/library/items/3KZTA393), [Web library](h
 		- similarity的衡量是两个向量经过一个线性层$F_\omega()$, 再进行cos相似
 		- 分类概率: 数据抽出来feature, 分母是和每一类的prototype进行比较, 分子是该类的
 	- 第二部分:
-		-
-		-
 -
