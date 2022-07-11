@@ -33,6 +33,6 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		- 得出另一个特征提取器称为$g_\xi (\cdot)$
 	- 第三部分 ((62cbcac7-7d08-4980-ac62-a3138dd81c9e)) 元训练阶段
 		- 步骤如下:
-		  1. 用$f_\theta(\cdot)$ 和 $g_xi(\cdot)$去
+		  1. 用$f_\theta(\cdot)$ 和 $g_xi(\cdot)$去得到两个feature, 将其结合
 		-
 		-
