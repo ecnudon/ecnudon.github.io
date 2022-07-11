@@ -10,3 +10,7 @@ title:: hls__Conditional Self-Supervised Learning for Few-Shot Classification_20
   ls-type:: annotation
   hl-page:: 4
   id:: 62cb9f12-07b7-46f3-b45c-ee741aaecb83
+- The Meta-Training Stage
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 62cbcac7-7d08-4980-ac62-a3138dd81c9e
