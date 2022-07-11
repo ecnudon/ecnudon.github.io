@@ -39,4 +39,4 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		  4. 然后就看不懂了........
 		  5. 用融合蒸馏方法得到xi的embedding
 		  6. 之后的分类方式还是利用这个embedding和该类别的prototype去看贴合程度
-	- 感觉emmm 对比学习也只是在feature
+	- 感觉emmm 对比学习也只是在feature extraction上起到了优化的作用.
