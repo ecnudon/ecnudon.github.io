@@ -29,10 +29,10 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		- 优化参数是$\theta$ 和 $\omega$, 也就是分类器 和 相似度计算前的那个线性层
 	- 第二部分: ((62cb9f12-07b7-46f3-b45c-ee741aaecb83)) 自训练部分
 		- 使用SimSiam的对比学习方法, 利用孪生网络和EM算法去拟合两个极大似然的参数
-		- 这种方式学出来的和$f_\theta$去对齐, 衡量损失
-		- 得出另一个特征提取器称为$g_\xi$
+		- 这种方式学出来的和$f_\theta(\cdot)$去对齐, 衡量损失
+		- 得出另一个特征提取器称为$g_\xi (\cdot)$
 	- 第三部分 ((62cbcac7-7d08-4980-ac62-a3138dd81c9e)) 元训练阶段
 		- 步骤如下:
-		  1. 用$f_\theta$ 和 \g
+		  1. 用$f_\theta(\cdot)$ 和 $g_xi(\cdot)$去
 		-
 		-
