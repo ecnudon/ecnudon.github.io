@@ -25,6 +25,7 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		- 训练 $f_\theta(\cdot)$ 作为特征提取器
 		- 对每一个support set中的同类元素的特征平均作为prototype
 		- similarity的衡量是两个向量经过一个线性层 $F_\omega()$ , 再进行cos相似
-		- 分类概率: 数据抽出来feature, 分母是和每一类的prototype进行比较, 分子是该类的
+		- 分类概率: 数据抽出来feature, 分母是和每一类的prototype进行比较, 分子是该类的相似度
+		- 优化参数是$\theta$ 和 $\omega$
 	- 第二部分:
 -
