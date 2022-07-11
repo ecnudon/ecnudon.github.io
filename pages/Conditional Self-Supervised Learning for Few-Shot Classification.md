@@ -19,4 +19,12 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 - [[Attachments]]
 	- [Conditional Self-Supervised Learning for Few-Shot Classification_2021_An_Xue_Zhao_Zhang_.pdf](zotero://select/library/items/RBVAQ7EP) {{zotero-linked-file "attachments:Few-shot/Conditional Self-Supervised Learning for Few-Shot Classification_2021_An_Xue_Zhao_Zhang_.pdf"}}
 	- [Snapshot](https://www.ijcai.org/proceedings/2021/295) {{zotero-imported-file Y6F7RHRZ, "295.html"}}
+- [[note]]
+	- 论文将Few-shot learning和对比学习相结合, 整个模型用三部分完成了这个设计
+	- 第一部分: ((62cb9e69-b31d-414e-be1e-5543e580f3b6)) 正常训练Few-shot的特征提取器
+		- 训练 $f_\theta(\cdot)$ 作为特征提取器
+		- 对每一个support set中的同类元素的特征平均作为prototype
+		- similarity的衡量是两个向量经过一个线性层 $F_\omega()$ , 再进行cos相似
+		- 分类概率: 数据抽出来feature, 分母是和每一类的prototype进行比较, 分子是该类的
+	- 第二部分:
 -

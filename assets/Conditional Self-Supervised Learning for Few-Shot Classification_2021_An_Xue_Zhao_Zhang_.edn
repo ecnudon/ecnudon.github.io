@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "62cb9e69-b31d-414e-be1e-5543e580f3b6", :page 3, :position {:bounding {:x1 496.3096584826708, :y1 546.6232299804688, :x2 653.4417385607958, :y2 567.1787719726562, :width 890.9999999999998, :height 1153.0588235294115}, :rects ({:x1 496.3096584826708, :y1 546.6232299804688, :x2 653.4417385607958, :y2 567.1787719726562, :width 890.9999999999998, :height 1153.0588235294115}), :page 3}, :content {:text "The Pre-Training Stage"}, :properties {:color "yellow"}}]}
