@@ -35,3 +35,4 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		- 步骤如下:
 		  1. 用$f_\theta(\cdot)$ 和 $g_xi(\cdot)$去得到两个feature, 将其结合 (例如concat)
 		  2. 这样拼出来一个矩阵, 矩阵每一列都是一个拼好的feature
+		  3. 可以另一个『相似度矩阵』, $S_{i,j}$是
