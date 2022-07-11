@@ -29,4 +29,5 @@ links:: [Local library](zotero://select/library/items/N3PBV23T), [Web library](h
 		- 优化参数是$\theta$ 和 $\omega$, 也就是分类器 和 相似度计算前的那个线性层
 	- 第二部分: ((62cb9f12-07b7-46f3-b45c-ee741aaecb83)) 自训练部分
 		- 使用SimSiam的对比学习方法, 利用孪生网络和EM算法去拟合两个极大似然的参数
+		- 这种方式学出来的和$f_\theta$
 		-
