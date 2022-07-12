@@ -13,4 +13,4 @@ title:: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 - [[note]]
 	- ![image.png](../assets/image_1657592055153_0.png)
 		- 步骤5 的loss是对N-way K-shot 中的N*K 个Support set进行 梯度下降
-		- 对于一个batch里的每一条task, 都有一个对应的
+		- 对于一个batch里的每一条task, 都有一个对应的$f_{\theta'}(\cdot)$, 用这个分类器在这个task的query set
