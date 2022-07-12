@@ -13,3 +13,4 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 - [[note]]
 	- 先分span 再实体分类 而且都用的MAML
 	- 之前的大多是基于度量学习? 用token去和prototype比较?
+-
