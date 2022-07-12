@@ -11,4 +11,5 @@ title:: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 	- [arXiv.org Snapshot](https://arxiv.org/abs/1703.03400) {{zotero-imported-file I6NBPFKR, "1703.html"}}
 	- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks_2017_Finn_Abbeel_Levine_.pdf](zotero://select/library/items/DRUX3TTX) {{zotero-linked-file "attachments:Few-shot/Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks_2017_Finn_Abbeel_Levine_.pdf"}}
 - [[note]]
-	-
+	- ![image.png](../assets/image_1657592055153_0.png)
+		- 步骤5 的loss是对N-way
