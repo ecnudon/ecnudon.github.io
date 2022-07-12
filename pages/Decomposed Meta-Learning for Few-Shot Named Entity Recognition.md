@@ -12,4 +12,4 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 	- [Decomposed Meta-Learning for Few-Shot Named Entity Recognition_2022_Ma_Jiang_Wu_Zhao_Lin_.pdf](zotero://select/library/items/YGA5IAHX) {{zotero-linked-file "attachments:Few-shot/Decomposed Meta-Learning for Few-Shot Named Entity Recognition_2022_Ma_Jiang_Wu_Zhao_Lin_.pdf"}}
 - [[note]]
 	- 先分span 再实体分类 而且都用的MAML
-	-
+	- 之前的大多是基于度量学习? 用token去和prototype比较?
