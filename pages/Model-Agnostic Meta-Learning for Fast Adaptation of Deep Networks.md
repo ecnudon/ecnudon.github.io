@@ -15,5 +15,6 @@ title:: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 		- 步骤5 的loss是对N-way K-shot 中的N*K 个Support set进行 梯度下降
 		- 对于一个batch里的每一条task, 都有一个对应的$f_{\theta_i'}(\cdot)$, 用这个分类器在这个task的query set的结果, 对$\theta$本身进行求导更新(即完成第8步的更新)
 	- fine-tune的步骤:
-		- 和上面类似, 因为是同一类的小
+		- 和上面类似, 因为是同一类的任务, 所以不用很多种task
+		- 不需要第一步的随机初始化 而是直接使用$M_{meta}$
 		-
