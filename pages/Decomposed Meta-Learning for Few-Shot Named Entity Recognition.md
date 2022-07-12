@@ -11,4 +11,4 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 	- [arXiv.org Snapshot](https://arxiv.org/abs/2204.05751) {{zotero-imported-file F7TQFRRZ, "2204.html"}}
 	- [Decomposed Meta-Learning for Few-Shot Named Entity Recognition_2022_Ma_Jiang_Wu_Zhao_Lin_.pdf](zotero://select/library/items/YGA5IAHX) {{zotero-linked-file "attachments:Few-shot/Decomposed Meta-Learning for Few-Shot Named Entity Recognition_2022_Ma_Jiang_Wu_Zhao_Lin_.pdf"}}
 - [[note]]
-	-
+	- 先分span 再实体分类 而且都用的MAML
