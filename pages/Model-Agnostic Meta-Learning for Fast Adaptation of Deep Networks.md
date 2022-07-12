@@ -12,7 +12,8 @@ title:: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 	- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks_2017_Finn_Abbeel_Levine_.pdf](zotero://select/library/items/DRUX3TTX) {{zotero-linked-file "attachments:Few-shot/Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks_2017_Finn_Abbeel_Levine_.pdf"}}
 - [[note]]
 	- gradient by gradient, 两个梯度优化
-		- 第一个梯度
+		- 第一个梯度优化是针对每一个单独的task, 从θ出发优化出θ' , 用θ' 去在query set跑结果
+		- 第二个优化是用query set的结果去优化θ本身
 	- ![image.png](../assets/image_1657592055153_0.png)
 		- 步骤3
 		- 步骤5 的loss是对N-way K-shot 中的N*K 个Support set进行 梯度下降
