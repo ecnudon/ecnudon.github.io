@@ -18,5 +18,7 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 		- 在loss函数把最大值重复加进去了, 缓解大损失token学习不足的问题
 		- feature extractor 的训练:
 			- 使用MAML的训练方式: 随机采样出一组Support, Query, Test
-			- 在同样的$\Theta$上利用support进行
+			- 在同样的$\Theta$上利用support进行梯度反向传播优化, 成为$\Theta'$
+			- 每一个$\Theta'
+			-
 -
