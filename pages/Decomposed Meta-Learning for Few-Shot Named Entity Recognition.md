@@ -19,6 +19,6 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 		- feature extractor 的训练:
 			- 使用MAML的训练方式: 随机采样出一组Support, Query, Test
 			- 在同样的$\Theta$上利用support进行梯度反向传播优化, 成为$\Theta'$
-			- 每一个$\Theta'
+			- 每一个$\Theta'_i$
 			-
 -
