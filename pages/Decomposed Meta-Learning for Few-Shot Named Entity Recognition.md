@@ -15,6 +15,6 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 	- 之前的小样本NER大多是基于token级的度量学习,  用token去和prototype比较
 	- 这篇论文首先把所有的实习先按照BIOES的标准进行标注, 对每个token的BIOES进行训练
 		- 第一步的softmax对不同类别的实体进行区分, 所有实体都只是先划分出span来
-		- 在loss函数把最大值重复
-		- 使用MAML的训练方式: 用
+		- 在loss函数把最大值重复加进去了, 缓解大损失token学习不足的问题
+	- 使用MAML的训练方式: 用
 -
