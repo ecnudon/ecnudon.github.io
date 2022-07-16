@@ -13,5 +13,5 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 - [[note]]
 	- 先分span 再实体分类 而且都用的MAML
 	- 之前的小样本NER大多是基于token级的度量学习,  用token去和prototype比较
-	-
+	- 这篇论文首先把
 -
