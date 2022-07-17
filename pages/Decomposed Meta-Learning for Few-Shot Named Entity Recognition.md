@@ -24,5 +24,5 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 		- 用另一个encoder 对token编码, 跨度中所有的token表征取平均代表span的表征
 		- 遵循『原型网络』的设置, support set里的所有的同一类的实体, 的跨度特征 再平均, 作为prototype
 		- query set的判定是根据到support set里的prototype的距离判断的
-		-
+		- 同样, encoder的训练是使用MAML的方法进行的, 过程和上面类似.
 -
