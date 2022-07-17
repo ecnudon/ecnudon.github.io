@@ -20,6 +20,7 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 			- 使用MAML的训练方式: 随机采样出一组Support, Query, Test
 			- 在同样的$\Theta$上利用support进行梯度反向传播优化, 成为$\Theta'$
 			- 每一个$\Theta'_i$在Query上评估得到损失, 再优化$\Theta$自身.
+	- 抽取出了span, 之后是实体分类任务
+		- 用另一个encoder 对token编码, 用
 		-
-			-
 -
