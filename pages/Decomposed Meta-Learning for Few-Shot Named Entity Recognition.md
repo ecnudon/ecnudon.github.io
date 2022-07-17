@@ -22,6 +22,5 @@ title:: Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 			- 每一个$\Theta'_i$在Query上评估得到损失, 再优化$\Theta$自身.
 	- 抽取出了span, 之后是实体分类任务
 		- 用另一个encoder 对token编码, 跨度中所有的token表征取平均代表span的表征
-		- 遵循『』
-		-
+		- 遵循『原型网络』的设置, support set里的所有的同一类的实体, 的跨度特征 再平均
 -
