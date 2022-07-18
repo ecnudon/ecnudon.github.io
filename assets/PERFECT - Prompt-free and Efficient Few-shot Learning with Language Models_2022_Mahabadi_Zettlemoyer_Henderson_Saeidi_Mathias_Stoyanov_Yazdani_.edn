@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "62d4eee6-8fae-4415-8d0e-21498f863cb2", :page 4, :position {:bounding {:x1 737.8704528808594, :y1 1311.5276794433594, :x2 924.0027160644531, :y2 1340.4165649414062, :width 1190.552, :height 1683.78}, :rects ({:x1 737.8704528808594, :y1 1311.5276794433594, :x2 924.0027160644531, :y2 1340.4165649414062, :width 1190.552, :height 1683.78}), :page 4}, :content {:text "multi-class hinge loss"}, :properties {:color "yellow"}}]}

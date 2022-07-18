@@ -22,4 +22,8 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 			- 感觉就是 原先在句子后面加一个token, 把token的embedding和"good" "bad"算距离
 			- 改成: 句子后面放$M$个token, 每个token的embedding都被一个$W_i$矩阵给reform成$K$维向量, 做分类
 			- 因为每个token和句子的距离不一样, 所以不能把$M$个$K$维向量给平均再算, 就是一个一个算, 一个一个优化
+		- ![image.png](../assets/image_1658121943685_0.png)
+		- ((62d4eee6-8fae-4415-8d0e-21498f863cb2))
+			- 这个loss很奇怪... 其实就是对M个K分类
+			-
 			-
