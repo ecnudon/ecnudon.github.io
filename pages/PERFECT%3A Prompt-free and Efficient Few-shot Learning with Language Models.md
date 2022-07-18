@@ -29,7 +29,7 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 		- ((62d4f24b-0762-48b5-b233-c6bd3fec49e9))
 			- 这个着实没看明白... 那你训练了Label embedding 但是推断的时候又用原型是什么意思??
 			- ![image.png](../assets/image_1658122883984_0.png)
-			-
+			- 在$i \in \{1..M\}$里找最大(那就是某一个token), 的
 			-
 			-
 			-
