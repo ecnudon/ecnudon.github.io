@@ -32,6 +32,3 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 			- 在$i \in \{1..M\}$里找最大(那就是某一个token), 的负距离最大(那就是距离最近)
 			- 此时这个最近的y就是推断结果???
 			-
-			-
-			-
-			-
