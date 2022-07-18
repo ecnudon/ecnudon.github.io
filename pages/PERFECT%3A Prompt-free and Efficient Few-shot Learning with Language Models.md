@@ -15,5 +15,5 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 		- 在bert的单个层里塞两个adapter层, 具有较少的参数, 形成bottle-neck的结构
 		- 具体哪两个位置到时候看源码
 	- 模型结构: pattern-free task description + multi-token label embedding
-		- pattern-free: 不是使用传统的prompt, 而是对每一个task都有一个adapter 与之对应, 到时候换adapter就行
-		- 训练过程的finetune只对
+		- pattern-free: 不是使用传统的prompt, 而是对每一个task都有一个adapter 与之对应, 到时候换adapter
+		- 训练过程的finetune只对adapter进行优化
