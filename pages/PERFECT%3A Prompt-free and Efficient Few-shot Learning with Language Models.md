@@ -20,4 +20,5 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 		- multi-token
 			- 这玩意我想了好久(tmd
 			- 感觉就是 原先在句子后面加一个token, 把token的embedding和"good" "bad"算距离
-			- 改成: 句子后面放$M$个token, 每个token的embedding都对应一个矩阵
+			- 改成: 句子后面放$M$个token, 每个token的embedding都被一个$W_i$参数给reform成$K$分类
+			- 因为每个token和句子的距离
