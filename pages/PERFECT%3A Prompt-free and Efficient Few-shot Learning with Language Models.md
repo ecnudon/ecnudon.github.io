@@ -10,3 +10,5 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 - [[Attachments]]
 	- [arXiv.org Snapshot](https://arxiv.org/abs/2204.01172) {{zotero-imported-file 8AEDY7JB, "2204.html"}}
 	- [PERFECT - Prompt-free and Efficient Few-shot Learning with Language Models_2022_Mahabadi_Zettlemoyer_Henderson_Saeidi_Mathias_Stoyanov_Yazdani_.pdf](zotero://select/library/items/RWC4SFVP) {{zotero-linked-file "attachments:Few-shot/PERFECT - Prompt-free and Efficient Few-shot Learning with Language Models_2022_Mahabadi_Zettlemoyer_Henderson_Saeidi_Mathias_Stoyanov_Yazdani_.pdf"}}
+- [[note]]
+	- 主要的思想是使用adapter-finetune.
