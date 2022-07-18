@@ -19,4 +19,5 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 			- 训练过程的finetune只对adapter进行优化
 		- multi-token
 			- 这玩意我想了好久(tmd
-			- 感觉就是 原先在句子后面加一个token, 把token的embedding和
+			- 感觉就是 原先在句子后面加一个token, 把token的embedding和"good" "bad"算距离
+			- 改成: 句子后面放$M$个token, 每个token的embedding都对应一个矩阵
