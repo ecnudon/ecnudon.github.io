@@ -26,7 +26,10 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 		- ((62d4eee6-8fae-4415-8d0e-21498f863cb2))
 			- 这个loss很奇怪... 其实就是对M个K分类任务计算loss, 为什么会用这个Hinge loss
 			- 没事了, $k \neq y$, 那计算的其实是所有分类错误的confidence, 那其实就是1+那个值, 为什么带$t_{iy}$呢)
-		-
+		- ((62d4f24b-0762-48b5-b233-c6bd3fec49e9))
+			- 这个着实没看明白... 那你训练了Label embedding 但是推断的时候又用原型是什么意思??
+			- ![image.png](../assets/image_1658122883984_0.png)
+			-
 			-
 			-
 			-
