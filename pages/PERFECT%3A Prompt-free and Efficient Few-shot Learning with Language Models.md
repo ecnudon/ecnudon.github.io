@@ -14,4 +14,4 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 	- 主要的思想是使用adapter-finetune
 		- 在bert的单个层里塞两个adapter层, 具有较少的参数, 形成bottle-neck的结构
 		- 具体哪两个位置到时候看源码
-		-
+	- 模型结构: pattern-free task description +
