@@ -12,5 +12,5 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 	- [PERFECT - Prompt-free and Efficient Few-shot Learning with Language Models_2022_Mahabadi_Zettlemoyer_Henderson_Saeidi_Mathias_Stoyanov_Yazdani_.pdf](zotero://select/library/items/RWC4SFVP) {{zotero-linked-file "attachments:Few-shot/PERFECT - Prompt-free and Efficient Few-shot Learning with Language Models_2022_Mahabadi_Zettlemoyer_Henderson_Saeidi_Mathias_Stoyanov_Yazdani_.pdf"}}
 - [[note]]
 	- 主要的思想是使用adapter-finetune
-		- 在bert的层里塞几个adapter层, 具有较少的参数,
-			- 在
+		- 在bert的单个层里塞两个adapter层, 具有较少的参数, 形成bottle-neck的结构
+		- 具体两次
