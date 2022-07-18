@@ -6,3 +6,7 @@ title:: hls__PERFECT - Prompt-free and Efficient Few-shot Learning with Language
   ls-type:: annotation
   hl-page:: 4
   id:: 62d4eee6-8fae-4415-8d0e-21498f863cb2
+- Inference with PERFECT
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 62d4f24b-0762-48b5-b233-c6bd3fec49e9
