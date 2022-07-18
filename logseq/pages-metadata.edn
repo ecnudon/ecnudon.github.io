@@ -120,6 +120,10 @@
  {:block/name "example augmented",
   :block/created-at 1654068866321,
   :block/updated-at 1654068866321}
+ {:block/name
+  "exploiting cloze questions for few shot text classification and natural language inference",
+  :block/created-at 1658155917250,
+  :block/updated-at 1658155917250}
  {:block/name "fangzhao wu",
   :block/created-at 1654521870023,
   :block/updated-at 1654521870023}
@@ -172,6 +176,9 @@
  {:block/name "hengyi zheng",
   :block/created-at 1654918077011,
   :block/updated-at 1654918077011}
+ {:block/name "hinrich schütze",
+  :block/created-at 1658155917268,
+  :block/updated-at 1658155917268}
  {:block/name
   "hls__a frustratingly easy approach for entity and relation extraction_2021_zhong_chen_",
   :block/created-at 1654918076947,
@@ -188,6 +195,10 @@
   "hls__learning to reason deductively - math word problem solving as complex relation_2022_jie_li_lu_",
   :block/created-at 1654255648066,
   :block/updated-at 1654340569220}
+ {:block/name
+  "hls__perfect - prompt-free and efficient few-shot learning with language models_2022_mahabadi_zettlemoyer_henderson_saeidi_mathias_stoyanov_yazdani_",
+  :block/created-at 1658121958598,
+  :block/updated-at 1658121958598}
  {:block/name
   "hls__prgc - potential relation and global correspondence based joint relational_2021_zheng_wen_chen_yang_zhang_zhang_zhang_qin_xu_zheng_",
   :block/created-at 1656399299851,
@@ -216,6 +227,9 @@
  {:block/name "in-progress",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
+ {:block/name "james henderson",
+  :block/created-at 1658108295817,
+  :block/updated-at 1658108295817}
  {:block/name "jian li",
   :block/created-at 1657378894959,
   :block/updated-at 1657378894959}
@@ -258,6 +272,9 @@
  {:block/name "kyunghyun cho",
   :block/created-at 1656989216588,
   :block/updated-at 1656989216588}
+ {:block/name "lambert mathias",
+  :block/created-at 1658108295820,
+  :block/updated-at 1658108295820}
  {:block/name "later",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
@@ -274,9 +291,18 @@
  {:block/name "lu zhang",
   :block/created-at 1657424250299,
   :block/updated-at 1657424250299}
+ {:block/name "luke zettlemoyer",
+  :block/created-at 1658108295816,
+  :block/updated-at 1658108295816}
+ {:block/name "majid yazdani",
+  :block/created-at 1658108295822,
+  :block/updated-at 1658108295822}
  {:block/name "mar 16th, 2022",
   :block/created-at 1654171732071,
   :block/updated-at 1654171732071}
+ {:block/name "marzieh saeidi",
+  :block/created-at 1658108295819,
+  :block/updated-at 1658108295819}
  {:block/name "math_word_problem",
   :block/created-at 1654342528224,
   :block/updated-at 1654342528224}
@@ -299,6 +325,12 @@
  {:block/name "mon, 2021",
   :block/created-at 1656989216632,
   :block/updated-at 1656989216632}
+ {:block/name "mon, 2021/01",
+  :block/created-at 1658163694959,
+  :block/updated-at 1658163694959}
+ {:block/name "mon, 2021/01/25",
+  :block/created-at 1658155917272,
+  :block/updated-at 1658155917272}
  {:block/name "mon, 2021/05",
   :block/created-at 1656995907135,
   :block/updated-at 1656995907135}
@@ -314,6 +346,12 @@
  {:block/name "mon, 2022",
   :block/created-at 1654521869843,
   :block/updated-at 1654521869843}
+ {:block/name "mon, 2022/04",
+  :block/created-at 1658163694959,
+  :block/updated-at 1658163694959}
+ {:block/name "mon, 2022/04/25",
+  :block/created-at 1658108295824,
+  :block/updated-at 1658108295824}
  {:block/name "mon, 2022/06",
   :block/created-at 1654521869844,
   :block/updated-at 1654521869844}
@@ -338,6 +376,9 @@
  {:block/name "mon, 2022/07/11",
   :block/created-at 1657508537261,
   :block/updated-at 1658024479342}
+ {:block/name "mon, 2022/07/18",
+  :block/created-at 1658107711667,
+  :block/updated-at 1658156240618}
  {:block/name "ner",
   :block/created-at 1657527670649,
   :block/updated-at 1657527670649}
@@ -366,6 +407,10 @@
  {:block/name "paper",
   :block/created-at 1654365942775,
   :block/updated-at 1654365942775}
+ {:block/name
+  "perfect: prompt-free and efficient few-shot learning with language models",
+  :block/created-at 1658108295813,
+  :block/updated-at 1658123006323}
  {:block/name "pieter abbeel",
   :block/created-at 1657591990056,
   :block/updated-at 1657591990056}
@@ -391,6 +436,9 @@
  {:block/name "qianhui wu",
   :block/created-at 1657527656070,
   :block/updated-at 1657527656070}
+ {:block/name "rabeeh karimi mahabadi",
+  :block/created-at 1658108295815,
+  :block/updated-at 1658108295815}
  {:block/name "re",
   :block/created-at 1654255605597,
   :block/updated-at 1654255605597}
@@ -480,7 +528,7 @@
   :block/updated-at 1657527020199}
  {:block/name "sun, 2022/07/17",
   :block/created-at 1658023162114,
-  :block/updated-at 1658023162114}
+  :block/updated-at 1658108523645}
  {:block/name "tag",
   :block/created-at 1654068698657,
   :block/updated-at 1654068698657}
@@ -520,6 +568,9 @@
  {:block/name "tiejun zhao",
   :block/created-at 1657527656071,
   :block/updated-at 1657527656071}
+ {:block/name "timo schick",
+  :block/created-at 1658155917267,
+  :block/updated-at 1658155917267}
  {:block/name "tingting ma",
   :block/created-at 1657527656068,
   :block/updated-at 1657527656068}
@@ -581,6 +632,9 @@
  {:block/name "tue, 2022/07/12",
   :block/created-at 1657591927604,
   :block/updated-at 1657622433164}
+ {:block/name "tue, 2022/07/19",
+  :block/created-at 1658160040793,
+  :block/updated-at 1658160040793}
  {:block/name "tuo ji",
   :block/created-at 1654918076769,
   :block/updated-at 1654918076769}
@@ -588,6 +642,9 @@
   "unire: a unified label space for entity relation extraction",
   :block/created-at 1655254089776,
   :block/updated-at 1655257196857}
+ {:block/name "veselin stoyanov",
+  :block/created-at 1658108295821,
+  :block/updated-at 1658108295821}
  {:block/name "wait",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
