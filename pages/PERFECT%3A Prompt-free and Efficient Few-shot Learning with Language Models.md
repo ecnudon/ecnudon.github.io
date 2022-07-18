@@ -16,4 +16,7 @@ title:: PERFECT: Prompt-free and Efficient Few-shot Learning with Language Model
 		- 具体哪两个位置到时候看源码
 	- 模型结构: pattern-free task description + multi-token label embedding
 		- pattern-free: 不是使用传统的prompt, 而是对每一个task都有一个adapter 与之对应, 到时候换adapter
-		- 训练过程的finetune只对adapter进行优化
+			- 训练过程的finetune只对adapter进行优化
+		- multi-token
+			- 这玩意我想了好久(tmd
+			- 感觉就是 原先
