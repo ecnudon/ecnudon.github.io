@@ -10,3 +10,5 @@ title:: PPT: Pre-trained Prompt Tuning for Few-shot Learning
 - [[Attachments]]
 	- [arXiv.org Snapshot](https://arxiv.org/abs/2109.04332) {{zotero-imported-file X4Y224E8, "2109.html"}}
 	- [PPT - Pre-trained Prompt Tuning for Few-shot Learning_2022_Gu_Han_Liu_Huang_.pdf](zotero://select/library/items/Z39QBBLA) {{zotero-linked-file "attachments:prompt/PPT - Pre-trained Prompt Tuning for Few-shot Learning_2022_Gu_Han_Liu_Huang_.pdf"}}
+- [[note]]
+	-
