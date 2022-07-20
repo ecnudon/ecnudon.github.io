@@ -10,3 +10,7 @@ title:: The Power of Scale for Parameter-Efficient Prompt Tuning
 - [[Attachments]]
 	- [arXiv.org Snapshot](https://arxiv.org/abs/2104.08691) {{zotero-imported-file XHMX4KWJ, "2104.html"}}
 	- [The Power of Scale for Parameter-Efficient Prompt Tuning_2021_Lester_Al-Rfou_Constant_.pdf](zotero://select/library/items/5GYNRRRT) {{zotero-linked-file "attachments:prompt/The Power of Scale for Parameter-Efficient Prompt Tuning_2021_Lester_Al-Rfou_Constant_.pdf"}}
+- [[note]]
+	- ((62d7d528-ded9-472d-86d9-cdfaf945f6ed))
+	-
+	-
