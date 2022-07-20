@@ -16,7 +16,7 @@ title:: The Power of Scale for Parameter-Efficient Prompt Tuning
 	- 本文想法: 可以用完全一样的特殊字符代表prompt, prompt单独走自己的embedding参数, 不用PLM的
 	- ![image.png](../assets/image_1658313210065_0.png)
 		- 思路很简单清晰, p长度的prompt和n长度的token序列分别走不同的编码器
-		- token序列的编码器一直使用的是PLM的, 不会经过任何训练
-		-
+		- token序列的embedding一直使用的是PLM的, 不会经过任何训练
+		- prompt直接以embedding的形式参与,
 	-
 	-
