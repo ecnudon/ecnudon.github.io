@@ -15,6 +15,9 @@
  {:block/name "abstract",
   :block/created-at 1654068866335,
   :block/updated-at 1654068866335}
+ {:block/name "alastair moore",
+  :block/created-at 1658318961184,
+  :block/updated-at 1658318961184}
  {:block/name "alme",
   :block/created-at 1656918529128,
   :block/updated-at 1656918529128}
@@ -30,6 +33,9 @@
  {:block/name "bin qin",
   :block/created-at 1654918077019,
   :block/updated-at 1654918077019}
+ {:block/name "brian lester",
+  :block/created-at 1658311132466,
+  :block/updated-at 1658311132466}
  {:block/name "brief_abstact",
   :block/created-at 1654069307473,
   :block/updated-at 1654069307473}
@@ -123,10 +129,14 @@
  {:block/name
   "exploiting cloze questions for few shot text classification and natural language inference",
   :block/created-at 1658155917250,
-  :block/updated-at 1658155917250}
+  :block/updated-at 1658301424226}
  {:block/name "fangzhao wu",
   :block/created-at 1654521870023,
   :block/updated-at 1654521870023}
+ {:block/name
+  "fantastically ordered prompts and where to find them: overcoming few-shot prompt order sensitivity",
+  :block/created-at 1658318961172,
+  :block/updated-at 1658318961172}
  {:block/name "favorites",
   :block/created-at 1653552702364,
   :block/updated-at 1653552702364}
@@ -173,6 +183,9 @@
  {:block/name "hao zhou",
   :block/created-at 1655254089787,
   :block/updated-at 1655254089787}
+ {:block/name "harris",
+  :block/created-at 1658315021694,
+  :block/updated-at 1658315021694}
  {:block/name "hengyi zheng",
   :block/created-at 1654918077011,
   :block/updated-at 1654918077011}
@@ -187,6 +200,10 @@
   "hls__conditional self-supervised learning for few-shot classification_2021_an_xue_zhao_zhang_",
   :block/created-at 1657524585355,
   :block/updated-at 1657524585355}
+ {:block/name
+  "hls__fantastically ordered prompts and where to find them - overcoming few-shot_2022_lu_bartolo_moore_riedel_stenetorp_",
+  :block/created-at 1658319131436,
+  :block/updated-at 1658319131436}
  {:block/name
   "hls__fewnlu - benchmarking state-of-the-art methods for few-shot natural language_2022_zheng_zhou_qian_ding_liao_li_salakhutdinov_tang_ruder_yang_",
   :block/created-at 1657378895434,
@@ -203,6 +220,10 @@
   "hls__prgc - potential relation and global correspondence based joint relational_2021_zheng_wen_chen_yang_zhang_zhang_zhang_qin_xu_zheng_",
   :block/created-at 1656399299851,
   :block/updated-at 1656399299851}
+ {:block/name
+  "hls__the power of scale for parameter-efficient prompt tuning_2021_lester_al-rfou_constant_",
+  :block/created-at 1658311960521,
+  :block/updated-at 1658311960521}
  {:block/name
   "hls__training data is more valuable than you think - a simple and effective method by_2022_wang_xu_fang_liu_sun_xu_zhu_zeng_",
   :block/created-at 1654222752320,
@@ -306,6 +327,9 @@
  {:block/name "math_word_problem",
   :block/created-at 1654342528224,
   :block/updated-at 1654342528224}
+ {:block/name "max bartolo",
+  :block/created-at 1658318961181,
+  :block/updated-at 1658318961181}
  {:block/name "may 26th, 2022",
   :block/created-at 1653552693120,
   :block/updated-at 1654268036980}
@@ -318,6 +342,9 @@
  {:block/name "ming xu",
   :block/created-at 1654918077008,
   :block/updated-at 1654918077008}
+ {:block/name "minlie huang",
+  :block/created-at 1658310728772,
+  :block/updated-at 1658310728772}
  {:block/name
   "model-agnostic meta-learning for fast adaptation of deep networks",
   :block/created-at 1657591990027,
@@ -388,6 +415,9 @@
  {:block/name "ningyu zhang",
   :block/created-at 1654918077014,
   :block/updated-at 1654918077014}
+ {:block/name "noah constant",
+  :block/created-at 1658311132468,
+  :block/updated-at 1658311132468}
  {:block/name
   "noisytune: a little noise can help you finetune pretrained language models better",
   :block/created-at 1654521869833,
@@ -417,6 +447,15 @@
  {:block/name "pipeline",
   :block/created-at 1654918077650,
   :block/updated-at 1654918077650}
+ {:block/name "pontus stenetorp",
+  :block/created-at 1658318961186,
+  :block/updated-at 1658318961186}
+ {:block/name "ppt",
+  :block/created-at 1658310497287,
+  :block/updated-at 1658310497287}
+ {:block/name "ppt: pre-trained prompt tuning for few-shot learning",
+  :block/created-at 1658310728767,
+  :block/updated-at 1658310740828}
  {:block/name "preprint",
   :block/created-at 1657378894933,
   :block/updated-at 1657378894933}
@@ -439,6 +478,9 @@
  {:block/name "rabeeh karimi mahabadi",
   :block/created-at 1658108295815,
   :block/updated-at 1658108295815}
+ {:block/name "rami al-rfou",
+  :block/created-at 1658311132467,
+  :block/updated-at 1658311132467}
  {:block/name "re",
   :block/created-at 1654255605597,
   :block/updated-at 1654255605597}
@@ -481,6 +523,9 @@
  {:block/name "sat, 2022/07/16",
   :block/created-at 1657900826396,
   :block/updated-at 1658024292903}
+ {:block/name "sebastian riedel",
+  :block/created-at 1658318961185,
+  :block/updated-at 1658318961185}
  {:block/name "sebastian ruder",
   :block/created-at 1657378894949,
   :block/updated-at 1657378894949}
@@ -502,6 +547,12 @@
  {:block/name "sun, 2022",
   :block/created-at 1654521869623,
   :block/updated-at 1654521869623}
+ {:block/name "sun, 2022/03",
+  :block/created-at 1658338537890,
+  :block/updated-at 1658338537890}
+ {:block/name "sun, 2022/03/13",
+  :block/created-at 1658310728774,
+  :block/updated-at 1658310728774}
  {:block/name "sun, 2022/06",
   :block/created-at 1654393124123,
   :block/updated-at 1654393124123}
@@ -535,9 +586,22 @@
  {:block/name "tao qi",
   :block/created-at 1654521870032,
   :block/updated-at 1654521870032}
+ {:block/name
+  "the power of scale for parameter-efficient prompt tuning",
+  :block/created-at 1658311132445,
+  :block/updated-at 1658314282119}
  {:block/name "thinking",
   :block/created-at 1654096549526,
   :block/updated-at 1654096549526}
+ {:block/name "thu, 2021",
+  :block/created-at 1658311132514,
+  :block/updated-at 1658311132514}
+ {:block/name "thu, 2021/09",
+  :block/created-at 1658338537889,
+  :block/updated-at 1658338537889}
+ {:block/name "thu, 2021/09/02",
+  :block/created-at 1658311132469,
+  :block/updated-at 1658311132469}
  {:block/name "thu, 2022",
   :block/created-at 1654521870242,
   :block/updated-at 1657209752811}
@@ -565,6 +629,9 @@
  {:block/name "thu, 2022/07/07",
   :block/created-at 1657209741050,
   :block/updated-at 1657209841112}
+ {:block/name "thu, 2022/07/21",
+  :block/created-at 1658332855037,
+  :block/updated-at 1658332855037}
  {:block/name "tiejun zhao",
   :block/created-at 1657527656071,
   :block/updated-at 1657527656071}
@@ -633,8 +700,8 @@
   :block/created-at 1657591927604,
   :block/updated-at 1657622433164}
  {:block/name "tue, 2022/07/19",
-  :block/created-at 1658160040793,
-  :block/updated-at 1658160040793}
+  :block/created-at 1658301435381,
+  :block/updated-at 1658301588440}
  {:block/name "tuo ji",
   :block/created-at 1654918076769,
   :block/updated-at 1654918076769}
@@ -681,6 +748,9 @@
  {:block/name "wed, 2022/07",
   :block/created-at 1657641813357,
   :block/updated-at 1657641813357}
+ {:block/name "wed, 2022/07/20",
+  :block/created-at 1658290097791,
+  :block/updated-at 1658318972036}
  {:block/name "wei lu",
   :block/created-at 1654255584121,
   :block/updated-at 1654255584121}
@@ -693,12 +763,18 @@
  {:block/name "xipeng qiu",
   :block/created-at 1654918076771,
   :block/updated-at 1654918076771}
+ {:block/name "xu han",
+  :block/created-at 1658310728771,
+  :block/updated-at 1658310728771}
  {:block/name "yanan zheng",
   :block/created-at 1657378894962,
   :block/updated-at 1657378894962}
  {:block/name "yang liu",
   :block/created-at 1654171732073,
   :block/updated-at 1654171732073}
+ {:block/name "yao lu",
+  :block/created-at 1658318961179,
+  :block/updated-at 1658318961179}
  {:block/name "yefeng zheng",
   :block/created-at 1654918077020,
   :block/updated-at 1654918077020}
@@ -729,6 +805,9 @@
  {:block/name "yuwei fang",
   :block/created-at 1654171732073,
   :block/updated-at 1654171732073}
+ {:block/name "yuxian gu",
+  :block/created-at 1658310728770,
+  :block/updated-at 1658310728770}
  {:block/name "zexuan zhong",
   :block/created-at 1654918076457,
   :block/updated-at 1654918076457}
@@ -741,6 +820,9 @@
  {:block/name "zhilin yang",
   :block/created-at 1657378894955,
   :block/updated-at 1657378894955}
+ {:block/name "zhiyuan liu",
+  :block/created-at 1658310728771,
+  :block/updated-at 1658310728771}
  {:block/name "ziheng zhang",
   :block/created-at 1654918077006,
   :block/updated-at 1654918077006}
@@ -783,6 +865,9 @@
  {:block/name "跟读者建立联系【研究的艺术·一】_哔哩哔哩_bilibili",
   :block/created-at 1656256723863,
   :block/updated-at 1656256723863}
+ {:block/name "迁移prompt–解决prompt tuning三大问题！",
+  :block/created-at 1658315021680,
+  :block/updated-at 1658315021680}
  {:block/name "随笔",
   :block/created-at 1654918076112, 
   :block/updated-at 1654918076112}]
