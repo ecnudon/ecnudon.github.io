@@ -12,6 +12,6 @@ title:: The Power of Scale for Parameter-Efficient Prompt Tuning
 	- [The Power of Scale for Parameter-Efficient Prompt Tuning_2021_Lester_Al-Rfou_Constant_.pdf](zotero://select/library/items/5GYNRRRT) {{zotero-linked-file "attachments:prompt/The Power of Scale for Parameter-Efficient Prompt Tuning_2021_Lester_Al-Rfou_Constant_.pdf"}}
 - [[note]]
 	- ((62d7d528-ded9-472d-86d9-cdfaf945f6ed))
-	- 之前的prompt: 用词表中的词汇(就是英语or汉语里的), 也要经过统一的PLM的embedding编码
-	- 本文想法:
+	- 之前的prompt: 用语言词表中的词汇, 不同任务的prompt不一样, 要经过统一的PLM的embedding编码
+	- 本文想法: 可以用完全一样的特殊字符代表prompt, prompt单独走自己的embedding参数
 	-
